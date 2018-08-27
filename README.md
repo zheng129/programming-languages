@@ -100,17 +100,17 @@ You can choose a langueage because
 - the PL would be useful for what you want to do in your programming project (you always wanted to develop X, but you didnt know the best way of doing it, so now you choose a PL that might be interesting for the purpose; you might not get X going, but you will learn a lot about PLs, and X, on the way)
 - you are interested in the history of PLs (Fortran, Lisp, Algol, Smalltalk, Scheme, ...)
 - of the application area 
- - probabilistic programming for machine learning 
+  - probabilistic programming for machine learning 
 				https://en.wikipedia.org/wiki/Probabilistic_programming_language
- - AI (lisp, prolog, ...)
- - theorem proving (Isabelle, Agda, Coq, ...)
- - blockchain, crypto, smart contracts, ...
+   - AI (lisp, prolog, ...)
+   - theorem proving (Isabelle, Agda, Coq, ...)
+   - blockchain, crypto, smart contracts, ...
 				https://en.wikipedia.org/wiki/Solidity
 			...
-- you want to leanr a PL that is fringe but rising in popularity
+  - you want to learn a PL that is fringe but rising in popularity
 			Haskell, Idriss, ...
 			Ehtereum, blockchain, smart contracts, ...
--  the PL is really so different from all the others (and hence interesting)
+  -  the PL is really so different from all the others (and hence interesting)
 			prolog, Idriss, lisp, ...
 -  it is a PL I know well (Isabelle, Promela, Prolog)
 -  it is a PL I dont know much about (all the others)
