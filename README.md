@@ -5,7 +5,8 @@ Notes and Materials for a Course on Programming Languages
 
 ### What is the topic of the course? Programming Languages ...
 
-Let us start by looking at Githut
+Let us start by looking at [Githut](https://githut.info)
+
 
 	Look at the top 49 languages
 		"view by percentage of total":  
