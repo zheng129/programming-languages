@@ -72,13 +72,13 @@ What do you want to get out of the course? Where are you in the landscape?
 ### Course Organisation
 
 #### Examination
-* 40% written *exam* 
-* 40% *blog* 
+* 40% written **exam** 
+* 40% **blog** 
   * 20% form, 
   * 20% content
 * 20% 
-  * *software* or 
-  * theoretical *essay* (mini-thesis) typeset in latex
+  * **software** or 
+  * theoretical **essay** (mini-thesis) typeset in latex
   
 #### Group work
 - The blog and the software/essay can be group work
@@ -87,9 +87,9 @@ What do you want to get out of the course? Where are you in the landscape?
 - Everybody is different, if you prefer to work alone that is ok with me ... but groups are fun and one can learn a lot from others
   
 #### At least 3 possible ways through the course	
-- if you like theory use the blog to document your understanding of models of computation, use the blog to do homework and exercises and learn a programming language like Isabelle or Coq
--if you like programming, use the blog to document the progress in programming and to link your programming with what we learn about models of comptuation in the theoretical part of the course
-- if you like blogging, you can also start from there
+- If you like theory use the blog to document your understanding of models of computation, use the blog to do homework and exercises and learn a programming language like eg Isabelle.
+-If you like programming, use the blog to document the progress in programming and to link your programming with what we learn about models of comptuation in the theoretical part of the course.
+- If you like blogging, you can also start from there.
 	
 	
 #### How to choose a programming language?
