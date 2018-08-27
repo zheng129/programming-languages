@@ -11,7 +11,7 @@ What are the easiest examples of computation?
 - Addition
 - Multiplication
 
-    Why are these difficult? Because we represent numbers as decimals. Let us simplify:
+	Why are these difficult? Because we represent numbers as decimals. Let us simplify:
 		What happens if we represent numbers in the unary numeral system?
 			let us introduce some notation, 1, +
 			now we can write all postive integers using abbreviations such as 3 to stand for (1+1)+1
