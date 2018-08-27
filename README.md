@@ -93,10 +93,12 @@ What do you want to get out of the course? Where are you in the landscape?
 
 #### About the blog? 
 
-Blogging is important. I am sure you all read blogs and you know what great contribution they can make to teaching and learning. Let me give you some examples of blogs I enjoy reading (even if I never manage to read them regularly). One of the oldest blogs by legendary John Baez from Riverside:
+Blogging is important. I am sure you all read blogs and you know what great contribution they can make to teaching and learning. Let me give you some examples of blogs I enjoy reading (even if I never manage to read them regularly). 
+
+One of the oldest science blogs (mostly physics and maths) is by legendary John Baez from Riverside:
 			http://math.ucr.edu/home/baez/TWF.html
 			
-One by my friend and colleague Pawel Sobocinski who is breaking new ground with his blog on linear algebra as a programming language: 
+My friend and colleague Pawel Sobocinski is breaking new ground with his blog on linear algebra as a programming language: 
 			https://graphicallinearalgebra.net
 		
 Of course there many more ... let me know your favourites ... a recent example (thanks to Justin Dressel) that is very relevant for programming language design is 
@@ -141,5 +143,6 @@ You can choose a langueage because
     - Which communities use the languages?
 
 ### References:
+
 	https://githut.info
         https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
