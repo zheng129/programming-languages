@@ -89,7 +89,9 @@ What do you want to get out of the course? Where are you in the landscape?
   
 #### At least 3 possible ways through the course	
 - If you like theory use the blog to document your understanding of models of computation, use the blog to do homework and exercises and learn a programming language like eg Isabelle.
+
 -If you like programming, use the blog to document the progress in programming and to link your programming with what we learn about models of comptuation in the theoretical part of the course.
+
 - If you like blogging, you can also start from there.
 
 #### About the blog? 
