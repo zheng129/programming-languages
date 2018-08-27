@@ -26,6 +26,7 @@ Clearly we cant learn all of them.
 Let us take a step back and look at the landscape surrounding computer science:
 
 Draw a map of the landscape (possibly add hardware/engineering on the left):
+
 		programming		computer science	mathematics
 		-----------------------------------------------
 
