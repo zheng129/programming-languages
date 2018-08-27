@@ -71,4 +71,67 @@ What do you want to get out of the course? Where are you in the landscape?
 
 ### Course Organisation
 
+Examinations
+	I need to run an exam, this will be worth 40% and cover the mathematical models of computation
+	I want to give you the room to explore what you find most interesting:
+	you will form groups, size 1-4, each group adopting a programming language you dont know (so eg Java and Python are excluded) and writing a blog and develop a program. 
+	Why is blogging so important? 
+		I am sure you all read blogs and you know what great contribution they can make to teaching and learning. Let me give you some examples of blogs I enjoy reading (even if I never manage to read them regularly). One of the oldest blogs by legendary John Baez from Riverside:
+			http://math.ucr.edu/home/baez/TWF.html
+		One by my friend and colleague Pawel Sobocinski who is breaking new ground with his blog on linear algebra as a programming language: 
+			https://graphicallinearalgebra.net
+		Of course there many more ... let me know your favourites ... a recent example (thanks to Justin Dressel) that is very relevant for programming language design is 
+			https://queue.acm.org/detail.cfm?id=3212479
+	summary structure of examination: 
+		40% written exam 
+		40% blog 
+			20% form, 20% content
+		20% 
+			programm or 
+			theoretical essay/mini-thesis typeset in latex
+	this gives you at least 3 ways through the course	
+		* if you like theory use the blog to document your understanding of models of computation, use the blog to do homework and exercises and learn a programming language like Isabelle or Coq
+		* if you like programming, use the blog to document the progress in programming and to link your programming with what we learn about models of comptuation in the theoretical part of the course
+		* if you like blogging, you can also start from there
+	I am not sure whether it is better to have a homogeneous group or a group that mixes the three approaches ... for you to try ...
+	what programming language you should choose? 
+		because you have a specific career plan and you know that a certain PL would be good
+		because you heard others talking about this PL and it sounded so cool
+		because the PL would be useful for what you want to do in your programming project
+				you always wanted to develop X, but you didnt know the best way of doing it, so now you choose a PL that might be interesting for the purpose; you might not get X going, but you will learn a lot about PLs, and X, on the way
+			are old languages still important? cobol, ...
+		because you are interested in the history of PLs
+			fortran, lisp, algol, smalltalk, scheme, ...
+		because of the application area 
+			probabilistic programming for machine learning 
+				https://en.wikipedia.org/wiki/Probabilistic_programming_language
+			AI (lisp, prolog, ...)
+			theorem proving (Isabelle, Agda, Coq, ...)
+			blockchain, crypto, smart contracts, ...
+				https://en.wikipedia.org/wiki/Solidity
+			...
+		because it is a PL that is fringe but rising in popularity
+			Haskell, Idriss, ...
+			Ehtereum, blockchain, smart contracts, ...
+		because the PL is really so different from all the others (and hence interesting)
+			prolog, Idriss, lisp, ...
+		because it is a PL I know well (Isabelle, Promela, Prolog)
+		because it is a PL I know nothing about (all the others)
+
+Homework:
+	form groups
+	choose a programming language
+	let me know your favourite blogs (should be somewhat CS related)
+	skim through the following blogs ... don't you want to learn Go or Erlang now?
+		https://queue.acm.org/detail.cfm?id=3212479
+		http://esr.ibiblio.org/?p=7979
+	choose a place to host your blog (could be github ...)
+	write the first blog entry about why you are excited about the programming language you choose ... what do you expect? ... etc
+	possible projects:
+		write about the history of programming Languages
+		try to understand the the role the different 49 languages play
+			For what purpose was a language invented?
+			For what purposes is a language used now? why?
+			Which communities use the languages?
+			...
 
