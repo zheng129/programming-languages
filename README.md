@@ -19,15 +19,13 @@ Let us start by looking at Githut
 			
 	Can we bring some order into this?
 	
-### (2)
-
-How are we going to study Programming Languages?
+### How are we going to study Programming Languages?
 
 Clearly we cant learn all of them.
 
 Let us take a step back and look at the landscape surrounding computer science:
 
-draw a map of the landscape (possibly add hardware/engineering on the left):
+Draw a map of the landscape (possibly add hardware/engineering on the left):
 		programming		computer science	mathematics
 		-----------------------------------------------
 
