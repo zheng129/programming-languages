@@ -72,13 +72,13 @@ What do you want to get out of the course? Where are you in the landscape?
 ### Course Organisation
 
 #### Examination
-* 40% written exam 
-* 40% blog 
+* 40% written *exam* 
+* 40% *blog* 
   * 20% form, 
   * 20% content
 * 20% 
-  * software or 
-  * theoretical essay/mini-thesis typeset in latex
+  * *software* or 
+  * theoretical *essay* (mini-thesis) typeset in latex
   
 #### Group work
 - The blog and the software/essay can be group work
