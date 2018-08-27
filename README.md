@@ -90,7 +90,19 @@ What do you want to get out of the course? Where are you in the landscape?
 - If you like theory use the blog to document your understanding of models of computation, use the blog to do homework and exercises and learn a programming language like eg Isabelle.
 -If you like programming, use the blog to document the progress in programming and to link your programming with what we learn about models of comptuation in the theoretical part of the course.
 - If you like blogging, you can also start from there.
-	
+
+#### About the blog? 
+
+Blogging is important. I am sure you all read blogs and you know what great contribution they can make to teaching and learning. Let me give you some examples of blogs I enjoy reading (even if I never manage to read them regularly). One of the oldest blogs by legendary John Baez from Riverside:
+			http://math.ucr.edu/home/baez/TWF.html
+			
+One by my friend and colleague Pawel Sobocinski who is breaking new ground with his blog on linear algebra as a programming language: 
+			https://graphicallinearalgebra.net
+		
+Of course there many more ... let me know your favourites ... a recent example (thanks to Justin Dressel) that is very relevant for programming language design is 
+			https://queue.acm.org/detail.cfm?id=3212479
+			
+Your blog does not have to be public, but you are likely to get higher marks if it is: Being aware of the readers improves form and content.
 	
 #### How to choose a programming language?
 
@@ -122,25 +134,12 @@ You can choose a langueage because
 - choose a place to host your blog (could be github ...)
 - write the first blog entry about why you are excited about the programming language you choose ... what do you expect? ... etc
 - possible projects:
- -- write about the history of programming Languages
- -- try to understand the the role the different 49 languages play
---- For what purpose was a language invented?
---- For what purposes is a language used now? why?
---- Which communities use the languages?
+  - write about the history of programming Languages
+  - try to understand the the role the different 49 languages play
+    - For what purpose was a language invented?
+    - For what purposes is a language used now? why?
+    - Which communities use the languages?
 
 ### References:
-
-	skim through the following blogs ... don't you want to learn Go or Erlang now?
-		https://queue.acm.org/detail.cfm?id=3212479
-		http://esr.ibiblio.org/?p=7979
-	choose a place to host your blog (could be github ...)
-	write the first blog entry about why you are excited about the programming language you choose ... what do you expect? ... etc
-	possible projects:
-		write about the history of programming Languages
-		try to understand the the role the different 49 languages play
-			For what purpose was a language invented?
-			For what purposes is a language used now? why?
-			Which communities use the languages?
-			...
-			
-https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+	https://githut.info
+        https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
