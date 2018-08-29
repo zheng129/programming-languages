@@ -1,5 +1,7 @@
 ## Lecture 1.2
 
+(first ask about progress in forming groups and choosing a programming langauages)
+
 ### Models of computation.
 
 Before presenting our first model of computation in the standard mathematical style, let us pretend we we were researchers a hundred years ago.
