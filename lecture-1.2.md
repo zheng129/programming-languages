@@ -49,7 +49,11 @@ How far did we go in our quick tour of school mathematics? Roughly primary schoo
 
 Algebra induces a radical new ** big idea**: instead of thinking of variables as place holders for terms/numbers: variables as "first class citizens"
 
-Historically, this did not come easy. The first time the method of algebra appears fully developed in most of its basic ideas is a turning point in history. Please have a look at [Descarte's Geometry](http://www.gutenberg.org/ebooks/26400). Even if you don't read French, just by browsing through the pages, you see that Descartes, who just escaped the middle ages, did write in a style that is still readable today and that looks like modern mathematics. You can also look at a [facsimile of the original]()
+Historically, this did not come easy. The first time the method of algebra appears fully developed in most of its basic ideas is a turning point in history. Please have a look at [Descarte's Geometry](http://www.gutenberg.org/ebooks/26400). Even if you don't read French, just by browsing through the pages, you see that Descartes, who just escaped the middle ages, did write in a style that is still readable today and that looks like modern mathematics. You can also look at a [facsimile of the original](). Even without trying to understand the maths in detail, I found for example [page 301 of the original](https://fr.wikisource.org/wiki/Page:Descartes_La_Géométrie.djvu/11) worth looking at. We see that he didnt use "=" (which, in fact, was introduced already much earlier by ... in ...), but that otherwise all is already there.
+
+	Little research project: Why did Descartes use a symbol for "=" that is not symmetric? Could there be a connection to the idea of rewriting that we mentioned above?
+	
+
 
 		do we need new equations?
 			what, for example, about (x+y)+x = 2x+y ? Get out pen and paper.
