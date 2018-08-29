@@ -60,5 +60,18 @@ Ok, after this historic excursion, let us go back to calculating with terms cont
 			what, for example, about (x+y)+x = 2x+y ? Get out pen and paper.
 		needs commutativity
 		write out all equations we have so far (could do this together at the whiteboard)
-		innocent but important questions: how do we know that we have all equations?
+		innocent but important question: how do we know that we have all equations?
 
+The answer to the last question, leads to the next topic, the title of which contains 4 **big ideas**.
+
+#### Soundness
+
+### Summary of big ideas
+ - terms are trees (maybe only a small idea? But it is of fundamental importance)
+ - variables as first class citizens (ideas can seem small in hindsight, that is why I emphasised Descartes)
+ - syntax (syntax has no meaning, just given by `naked' rules)
+ - semantics (semantics is a map from syntax to "meaning" ... do you see the self-reference here?)
+ - soundness (are the rules correct?)
+ - completeness (do we have all rules?)
+ 
+ - 
