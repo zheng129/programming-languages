@@ -2,7 +2,7 @@
 
 ### Models of computation.
 
-Let's pretend we were researchers a hundred years ago.
+Before presenting our first model of computation in the standard mathematical style, let us pretend we we were researchers a hundred years ago.
 
 How would you approach the question
 	"What is computation?"
@@ -24,5 +24,21 @@ Let us simplify:
 			what equations do we need to calculate 2 x 3 = 6 ? Get out pen and paper and do this.
 				[...]
 		Can we write down the equations?
+			associativity of +, distributivity of x
+			what about the other equations such as commutativity? Not needed so far
+				[maybe there is room for some investigation here ...]
+
     
-... to be continued ...
+Stocktaking: What did we learn about computation from this?
+- terms are trees
+- computing with terms via rewriting terms using equations
+- very important question:
+  - can we prove/disprove (decide) all equations?
+  - [interlude/excursion on decidability]
+- which leads to the related question:
+  - how do we know that we are finished with a computation? 
+  - [interlude/excursion on termination]
+- answer (in a nutshell): rewriting to normal form
+  - expand on this ...
+
+
