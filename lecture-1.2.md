@@ -7,6 +7,8 @@ Before presenting our first model of computation in the standard mathematical st
 How would you approach the question
 	"What is computation?"
 
+#### Numbers
+
 What are the easiest examples of computation?
 - Addition
 - Multiplication
@@ -41,4 +43,17 @@ Stocktaking: What did we learn about computation from this?
 - answer (in a nutshell): rewriting to normal form
   - expand on this ...
 
+#### Algebra
+
+How far did we go in our quick tour of school mathematics? Roughly primary school, computing with numbers. 
+
+Algebra induces a radical new ** big idea**: instead of thinking of variables as place holders for terms/numbers: variables as "first class citizens"
+
+Historically, this did not come easy. The first time the method of algebra appears fully developed in most of its basic ideas is a turning point in history. Please have a look at [Descarte's Geometry](http://www.gutenberg.org/ebooks/26400). Even if you don't read French, just by browsing through the pages, you see that Descartes, who just escaped the middle ages, did write in a style that is still readable today and that looks like modern mathematics. You can also look at a [facsimile of the original]()
+
+		do we need new equations?
+			what, for example, about (x+y)+x = 2x+y ? Get out pen and paper.
+		needs commutativity
+		write out all equations we have so far (could do this together at the whiteboard)
+		innocent but important questions: how do we know that we have all equations?
 
