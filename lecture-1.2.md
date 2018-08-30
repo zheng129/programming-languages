@@ -45,3 +45,7 @@ Stocktaking: What did we learn about computation from this?
 - answer (in a nutshell): rewriting to normal form
   - expand on this ...
 
+#### Remarks:
+
+- In class we contrasted the idea of rewriting equations as a model of computation, first studied by [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) in detail, with the model of computation proposed by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), namely the [Turing machine](https://en.wikipedia.org/wiki/Turing_machine). I simplified a lot by explaining how the Turing machine is a model of computation well suited to imperative programming languages and hinted at how rewriting is a suitable model for functional programming. I now want to add a note of warning, this is really an over simplification and both models of computation are relevant for all programming languages. Maybe one way of understanding this is that both models of computation are equivalent, even if they look different. The equivalence of all models of computation is known as the [Church-Turing thesis](https://en.wikipedia.org/wiki/Church–Turing_thesis).
+- Btw, the original paper of Turing [On Computable Numbers, with an Application to the Entscheidungsproblem](https://londmathsoc.onlinelibrary.wiley.com/doi/epdf/10.1112/plms/s2-42.1.230) is worth reading and in the first section he explains his rationale for the Turing machine.
