@@ -1,5 +1,7 @@
 ## Lecture 1.3
 
+(under construction)
+
 (first ask about progress in forming groups and choosing a programming langauages ... programming languages some students where interested in: Haskell, Fortran/Algol (sth old), Go, PhP, Julia, Q#, Matlab, Ruby on Rails, ... probably some more ... one language I would like to add is Elm which implements [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functional_reactive_programming), picking up on a discussion we had in class of how to reconcile the idea of functional programming with the idea of not having just one input and one output but rather streams of inputs and outputs and then continue potentially forever)
 
 (we talked about how it is important in research to simplify a problem in the right way; we learned some basic ideas: computation as rewriting to normal form; now let us make things more complicated again and see how far we can go ... there are many ways to do this: negative numbers, binary numbers (or decimals), exponentiation, square roots, calculus, if-then-else, etc etc ... but we will look at something else first, namely how to go from numbers to algebra, or from primary school to secondary school)
