@@ -29,6 +29,8 @@ Ok, after this historic excursion, let us go back to calculating with terms cont
 
 The answer to the last question, leads to the next topic, the title of which contains 4 **big ideas**.
 
+But first, we could use this opportunity to get used to consult research literature. The problem we have been discussing has an interesting history and drew the attention of some real heavyweights. Read up to (and excluding) Section 1.1 of the [article by Burris and Yeats](https://www.math.uwaterloo.ca/~snburris/htdocs/MYWORKS/PREPRINTS/saga.ps). Can you summarise its contents? Also read the Wikipedia article on [Tarski's High School Algebra Problem](https://en.wikipedia.org/wiki/Tarski%27s_high_school_algebra_problem).
+
 #### Soundness, Completeness, Syntax, Semantics
 
 ##### Soundness and Completeness
