@@ -15,7 +15,7 @@ Historically, this did not come easy. The first time the method of algebra appea
 		Little research project: Why did Descartes use a symbol for "=" that is not symmetric? 
 		Could there be a connection to the idea of rewriting that we mentioned above?
 		
-It can help to appreciate the importance of Descarte's contribution by putting him into the historical context. He was a generation younger then Galileo and a generation older than Newton. Looking at Galileo's [theorems of motion](http://galileoandeinstein.physics.virginia.edu/tns_draft/tns_153to160.html) as formulated by himself in the celebrated [Discourses and Mathematical Demonstrations Relating to Two New Sciences](https://en.wikipedia.org/wiki/Two_New_Sciences), we see that he needs 6 theorems with complicated proofs in order to express the simple equation $d=v*t$ because he does not have the algebra of Descartes.
+It can help to appreciate the importance of Descarte's contribution by putting him into the historical context. He was a generation younger then Galileo and a generation older than Newton. Looking at Galileo's [theorems of motion](http://galileoandeinstein.physics.virginia.edu/tns_draft/tns_153to160.html) as formulated by himself in the celebrated [Discourses and Mathematical Demonstrations Relating to Two New Sciences](https://en.wikipedia.org/wiki/Two_New_Sciences), we see that he needs 6 theorems with complicated proofs in order to express the simple equation d=v*t because he does not have the algebra of Descartes.
 	
 Ok, after this historic excursion, let us go back to calculating with terms containing variables.
 
