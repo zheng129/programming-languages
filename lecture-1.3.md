@@ -2,6 +2,8 @@
 
 (first ask about progress in forming groups and choosing a programming langauages ... programming languages some students where interested in: Haskell, Fortran/Algol (sth old), Go, PhP, Julia, Q#, Matlab, Ruby on Rails, ... probably some more ... one language I would like to add is Elm which implements [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functional_reactive_programming), picking up on a discussion we had in class of how to reconcile the idea of functional programming with the idea of not having just one input and one output but rather streams of inputs and outputs and then continue potentially forever)
 
+(we talked about how it is important in research to simplify a problem in the right way; we learned some basic ideas: computation as rewriting to normal form; now let us make things more complicated again and see how far we can go ... there are many ways to do this: negative numbers, binary numbers (or decimals), exponentiation, square roots, calculus, if-then-else, etc etc ... but we will look at something else first, namely how to go from numbers to algebra, or from primary school to secondary school)
+
 #### Algebra
 
 How far did we go in our quick tour of school mathematics? Roughly primary school, computing with numbers. 
@@ -12,6 +14,8 @@ Historically, this did not come easy. The first time the method of algebra appea
 
 		Little research project: Why did Descartes use a symbol for "=" that is not symmetric? 
 		Could there be a connection to the idea of rewriting that we mentioned above?
+		
+It can help to appreciate the importance of Descarte's contribution by putting him into the historical context. He was a generation younger then Galileo and a generation older than Newton. Looking at Galileo's [theorems of motion](http://galileoandeinstein.physics.virginia.edu/tns_draft/tns_153to160.html) as formulated by himself in the celebrated [Discourses and Mathematical Demonstrations Relating to Two New Sciences](https://en.wikipedia.org/wiki/Two_New_Sciences), we see that he needs 6 theorems with complicated proofs in order to express the simple equation $d=v*t$ because he does not have the algebra of Descartes.
 	
 Ok, after this historic excursion, let us go back to calculating with terms containing variables.
 
