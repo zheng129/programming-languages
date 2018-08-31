@@ -13,6 +13,8 @@
 - Matlab, 
 - Ruby on Rails, 
 - Rust
+- Scala
+- Arduino
 - ... probably some more ... 
 
 one language I would like to add is 
