@@ -29,11 +29,11 @@ there was also the question about using python for a machine learning project ..
 
 ##### Summary of what we learned so far:
 
-- computation as rewriting 
+- computation as rewriting to normal form
   - build terms from operations
   - rewrite terms by applying equations using pattern matching
-  - equations are also called rewrite rules in this context
-- computation terminates if no rule applies
+  - equations are also called **rewrite rules** in this context
+  - computation terminates if no rule applies
   - a term to which no rule applies is called a **normal form**
   
 
@@ -100,9 +100,21 @@ Also read the Wikipedia article on [Tarski's High School Algebra Problem](https:
 ### Summary of big ideas
  - terms are trees (maybe only a small idea? But it is of fundamental importance)
  - variables as first class citizens (ideas can seem small in hindsight, that is why I emphasised Descartes)
- - syntax (syntax has no meaning, just given by `naked' rules)
+ - syntax (syntax has no meaning, just given by "naked" rules)
  - semantics (semantics is a map from syntax to "meaning" ... do you see the self-reference here?)
  - soundness (are the rules correct?)
  - completeness (do we have all rules?)
+ 
+ ### Summary of jargon
+  - rewrite rule
+  - normal form
+  - pattern matching
+  - syntax
+  - abstract syntax
+  - BNF
+  - syntactic sugar
+  - ... 
+ 
+  
  
 
