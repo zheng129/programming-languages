@@ -2,7 +2,8 @@
 
 (under construction)
 
-(first ask about progress in forming groups and choosing a programming langauages ... programming languages some students where interested in: 
+(
+first ask about progress in forming groups and choosing a programming langauages ... programming languages some students where interested in: 
 
 - Haskell
 - Fortran/Algol (sth old), 
@@ -17,7 +18,6 @@
 one language I would like to add is 
 
 - Elm which implements [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functional_reactive_programming), picking up on a discussion we had in class of how to reconcile the idea of functional programming with the idea of not having just one input and one output but rather streams of inputs and outputs and then continue potentially forever
-
 )
 
 ##### Summary of what we learned so far:
