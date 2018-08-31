@@ -28,7 +28,7 @@ there was also the question about using python for a machine learning project ..
 ##### Summary of what we learned so far:
 
 - computation as rewriting to normal form
-  - build terms from operations
+  - build terms from operations (terms are trees)
   - rewrite terms by applying equations using pattern matching
   - equations are also called ***rewrite rules*** in this context
   - computation terminates if no rule applies
