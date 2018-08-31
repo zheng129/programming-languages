@@ -11,8 +11,8 @@ Then we also extended numbers to form expressions using + and * by adding, again
 
     exp ::= num | exp + exp | exp * exp
 
-And then to "algebraic expressions" which also may contain variables
+And then to "algebraic expressions", which also may contain variables, by replacing the above with
 
-    aexp ::= exp | x
+    exp ::= num | exp + exp | exp * exp | x
 
 where x is ranging over a given set of "variables".
