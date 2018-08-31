@@ -1,7 +1,5 @@
 ## Lecture 1.3
 
-(under construction)
-
 ##### Programming languages you were interested in
 
 - Haskell
@@ -63,49 +61,19 @@ Ok, after this historic excursion, let us go back to calculating with terms cont
 
 The answer to the last question, leads to the next topic, the title of which contains 4 **big ideas**.
 
-But first, we could use this opportunity to get used to consult research literature. The problem we have been discussing has an interesting history and drew the attention of some real heavyweights. Read up to (and excluding) Section 1.1 of the [article by Burris and Yeats](https://www.math.uwaterloo.ca/~snburris/htdocs/MYWORKS/PREPRINTS/saga.ps). Can you summarise its contents? (I don't expect you to be able to do this now, we will explain everything in detail ... but if you try now, you will understand better what follows.)
+But first, we could use this opportunity to get used to consult research literature. The problem we have been discussing has an interesting history and drew the attention of some real heavyweights. Read up to (and excluding) Section 1.1 of the [article by Burris and Yeats](https://www.math.uwaterloo.ca/~snburris/htdocs/MYWORKS/PREPRINTS/saga.ps). 
 
 Also read the Wikipedia article on [Tarski's High School Algebra Problem](https://en.wikipedia.org/wiki/Tarski%27s_high_school_algebra_problem).
 
-#### Soundness, Completeness, Syntax, Semantics
-
-##### Soundness and Completeness
-		First review how we use equations for computations. Emphasise that this is as in high school.
-		Two important questions arise:
-		Soundness: How do we know that the equations are correct?
-		Completeness: How do we know that we found all equations?
-		How do we even start thinking about these questions? Brainstorm with the students ...
-		Answer will be (at this moment only informal discussion):
-			syntax vs semantics
-			terms vs algebras
-				computation syntactically as rewriting of terms
-				computation semantically by evaluating terms in an algebra
-				[rewriting of terms amounts to implementing an interpreter for a programming language
-				 evaluating in an algebra takes the algebra as a device capable of computation as primitive]
-			language vs models
-			soundness: The equations are true in the intended model
-			completeness: All equations that hold in the intended model can be derived using the equations
-			what is the language in our example?
-			what is the model in our example?
-			can we keep them separated? this is difficult if this is a new idea to you, requires lots of practice
-			let us try to make this very explicit by using different notation
-			what does relate the two different realms of formal language and their models?
-				there is a meaning function ... write it out ...
-				explain how 
-					the formal language is a programming language
-					the meaning function is an interpreter
-					the meaning function is compositional (or recursive (but maybe keep this for later))
-					how can we make "compositional" more precise? (just mention this question for later)
+### Homework
+Read up to (and excluding) Section 1.1 of the [article by Burris and Yeats](https://www.math.uwaterloo.ca/~snburris/htdocs/MYWORKS/PREPRINTS/saga.ps). Can you summarise its contents? (I don't expect you to understand all of it and we will explain everything in detail ... but if you try to understand the main ideas now, you will understand better what follows.)
 
 ### Summary of big ideas
  - terms are trees (maybe only a small idea? But it is of fundamental importance)
  - variables as first class citizens (ideas can seem small in hindsight, that is why I emphasised Descartes)
  - syntax (syntax has no meaning, just given by "naked" rules)
- - semantics (semantics is a map from syntax to "meaning" ... do you see the self-reference here?)
- - soundness (are the rules correct?)
- - completeness (do we have all rules?)
  
- ### Summary of jargon
+### Summary of jargon
   - rewrite rule
   - normal form
   - pattern matching
