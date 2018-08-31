@@ -20,7 +20,7 @@ and this is enough to perform all additions of numbers (see below for the defini
 
 #### equation
 
-An equation t=t' is formed from terms t,t' that are built by adding "meta"variables X,Y,Z. For example, in order to compute that
+An equation `t=t'` is formed from terms `t,t'` that are built by adding "meta"variables `X,Y,Z`. For example, in order to compute that
 
         1+2 = 1 + (1+1)
             = (1+1)+1
@@ -30,12 +30,12 @@ we use the equation
 
         X + (Y + Z) = (X + Y) + Z
         
-In class I wrote it as x+(y+z) = (x+y)+z but then I used the same symbols x,y,z also for the variables of algebra. This is potentially confusing, as these two kind of variables are very different. The variables of algebra are part of the syntax. The variables in the equation are used "on the meta level" as they are part of the language that is used to talk about the algebraic expressions. Another way to think about this is to say that the variables x,y,z of algebra stand for numbers, whereas the variables in the equations stand for terms. This is confusing as we are used to write things like 1+2=3 without making the difference between the term 1+2 and the number 3.
+In class I wrote it as `x+(y+z) = (x+y)+z` but then I used the same symbols `x,y,z` also for the variables of algebra. This is potentially confusing, as these two kind of variables are different. The variables of algebra are part of the syntax. The variables in the equation are used "on the meta level" as they are part of the language that is used to talk about the algebraic expressions. Another way to think about this is to say that the variables `x,y,z` of algebra stand for numbers, whereas the variables in the equations stand for terms. This is confusing as we are used to write things like `1+2=3` without making the difference between the term `1+2` and the number `3`.
 
 
 #### abstract syntax
 
-Abstract syntax is what we describe using BNF. For example, in algebra we may write x*(y+z). This term is formed by first +'ing x and y and then `*`'ing x and y+z. Note that the last sentence discribes the terms without using brackets. So while syntax refers to strings such as x*(y+z), abstract syntax refers to the corresponding trees which do not contain brackets since the structure (first +, then *) is represented by the tree structure. 
+Abstract syntax is what we describe using BNF. For example, in algebra we may write `x*(y+z)`. This term is formed by first `+`'ing `y` and `z` and then `*`'ing `x` and `y+z`. Note that the last sentence discribes the terms without using brackets. So while syntax refers to strings such as `x*(y+z)`, abstract syntax refers to the corresponding trees which do not contain brackets since the structure (first `+`, then `*`) is represented by the tree structure. 
 
 
 #### term
