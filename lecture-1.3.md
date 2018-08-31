@@ -12,6 +12,7 @@
 - Q#, 
 - Matlab, 
 - Ruby on Rails, 
+- Rust
 - ... probably some more ... 
 
 one language I would like to add is 
