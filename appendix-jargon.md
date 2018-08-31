@@ -30,7 +30,7 @@ we use the equation
 
         X + (Y + Z) = (X + Y) + Z
         
-In class I wrote it as `x+(y+z) = (x+y)+z` but then I used the same symbols `x,y,z` also for the variables of algebra. This is potentially confusing, as these two kind of variables are different. The variables of algebra are part of the syntax. The variables in the equation are used "on the meta level" as they are part of the language that is used to talk about the algebraic expressions. Another way to think about this is to say that the variables `x,y,z` of algebra stand for numbers, whereas the variables in the equations stand for terms. This is confusing as we are used to write things like `1+2=3` without making the difference between the term `1+2` and the number `3`.
+In class I wrote it as `x+(y+z) = (x+y)+z` but then I used the same symbols `x,y,z` also for the variables of algebra. This is potentially confusing, as these two kind of variables are different. The variables of algebra are part of the syntax. The variables in the equation are used "on the meta level" as they are part of the language that is used to talk about the algebraic expressions. Another way to think about this is to say that the variables `x,y,z` of algebra stand for numbers, whereas the variables in the equations stand for terms. This is confusing as we are used to write things like `1+2=3` without making the difference between the term `1+2` and the number `3`. Yet another way to think about it is to say that `1+2` is a computation that still has to run whereas `3` is a value that does not need any further computation.
 
 
 #### abstract syntax
