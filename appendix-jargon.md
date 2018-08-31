@@ -35,7 +35,7 @@ In class I wrote it as x+(y+z) = (x+y)+z but then I used the same symbols x,y,z 
 
 #### abstract syntax
 
-Abstract syntax is what we describe using BNF. For example, in algebra we may write x*(y+z). This term is formed by first +'ing x and y and then *'ing x and y+z. Note that the last sentence discribes the terms without using brackets. So while syntax refers to strings such as x*(y+z), abstract syntax refers to the corresponding trees which do not contain brackets since the structure (first +, then *) is represented by the tree structure. 
+Abstract syntax is what we describe using BNF. For example, in algebra we may write x*(y+z). This term is formed by first +'ing x and y and then `*`'ing x and y+z. Note that the last sentence discribes the terms without using brackets. So while syntax refers to strings such as x*(y+z), abstract syntax refers to the corresponding trees which do not contain brackets since the structure (first +, then *) is represented by the tree structure. 
 
 
 #### term
