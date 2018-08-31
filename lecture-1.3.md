@@ -30,9 +30,9 @@ there was also the question about using python for a machine learning project ..
 - computation as rewriting to normal form
   - build terms from operations
   - rewrite terms by applying equations using pattern matching
-  - equations are also called **rewrite rules** in this context
+  - equations are also called ***rewrite rules*** in this context
   - computation terminates if no rule applies
-  - a term to which no rule applies is called a **normal form**
+  - a term to which no rule applies is called a ***normal form***
   
 
 
@@ -42,7 +42,7 @@ there was also the question about using python for a machine learning project ..
 
 How far did we go in our quick tour of school mathematics? Roughly primary school, computing with numbers. 
 
-Algebra induces a radical new **big idea**: instead of thinking of variables as place holders for terms/numbers: variables as "first class citizens"
+Algebra induces a radical new big idea: instead of thinking of variables as place holders for terms/numbers: variables as "first class citizens"
 
 Historically, this did not come easy. The first time the method of algebra appears fully developed in most of its basic ideas is a turning point in history. Please have a look at [Descartes' Geometry](http://www.gutenberg.org/ebooks/26400), first published in 1637. (It is always worth looking at Wikipedia so read up on [Descartes](https://en.wikipedia.org/wiki/René_Descartes) who led a very interesting live that is full of amusing anecdotes and his books, the [Discourse on the Method](https://en.wikipedia.org/wiki/Discourse_on_the_Method) and its appendix, the [Geometry](https://en.wikipedia.org/wiki/La_Géométrie), are, in my opinion, arguably the most important publications in philosophy and mathematics of all time. A great resource on  philosophy and logic and some areas of mathematics is the Stanford Encyclopedia of Philosophy which also has an article on [Descartes mathematics](https://plato.stanford.edu/entries/descartes-mathematics/).) Even if you don't read French, just by browsing through the pages, you see that Descartes, who just escaped the middle ages, did write in a style that is still readable today and that looks like modern mathematics. You can also look at a facsimile of the original. Even without trying to understand the maths in detail, I found for example [page 301 of the original](https://fr.wikisource.org/wiki/Page:Descartes_La_Géométrie.djvu/11) worth looking at. We see that he didnt use "=" (which, in fact, was introduced already earlier by [Robert Recorde](https://en.wikipedia.org/wiki/Robert_Recorde) in 1557 but not widely used yet), but that otherwise all the basic ideas of algebra are already there. 
 
@@ -59,7 +59,7 @@ Ok, after this historic excursion, let us go back to calculating with terms cont
 		write out all equations we have so far (could do this together at the whiteboard)
 		innocent but important question: how do we know that we have all equations?
 
-The answer to the last question, leads to the next topic, the title of which contains 4 **big ideas**.
+The answer to the last question, leads to the next topic, the title of which contains the four big ideas of syntax, semantics, soundness and completeness.
 
 But first, we could use this opportunity to get used to consult research literature. The problem we have been discussing has an interesting history and drew the attention of some real heavyweights. Read up to (and excluding) Section 1.1 of the [article by Burris and Yeats](https://www.math.uwaterloo.ca/~snburris/htdocs/MYWORKS/PREPRINTS/saga.ps). 
 
