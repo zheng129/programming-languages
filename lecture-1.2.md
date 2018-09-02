@@ -79,4 +79,4 @@ where `x` ranges of a set of "variables".
 
 What about associativity of multiplication `X * ( Y * Z ) = ( X * Y ) * Z` ?
 
-And are the equations above really enough? What equation needs to be added if we take seriously that `+1` is different from the binary `+` ?
+And are the equations above really enough? What equations need to be added if we take seriously that `+1` is different from the binary `+` ?
