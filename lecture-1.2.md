@@ -49,3 +49,34 @@ Stocktaking: What did we learn about computation from this?
 
 - In class we contrasted the idea of rewriting equations as a model of computation, first studied by [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) in detail, with the model of computation proposed by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), namely the [Turing machine](https://en.wikipedia.org/wiki/Turing_machine). I simplified a lot by explaining how the Turing machine is a model of computation well suited to imperative programming languages and hinted at how rewriting is a suitable model for functional programming. I now want to add a note of warning, this is really an over simplification and both models of computation are relevant for all programming languages. Maybe one way of understanding this is that both models of computation are equivalent, even if they look different. The equivalence of all models of computation is known as the [Church-Turing thesis](https://en.wikipedia.org/wiki/Church–Turing_thesis).
 - Btw, the original paper of Turing [On Computable Numbers, with an Application to the Entscheidungsproblem](https://londmathsoc.onlinelibrary.wiley.com/doi/epdf/10.1112/plms/s2-42.1.230) is worth reading and in the first section he explains his rationale for the Turing machine.
+
+#### Answers to some questions
+
+For the language given by
+
+        num ::= 1 | num + 1
+        exp ::= num | exp + exp 
+ 
+the equation
+
+        X + (Y + Z) = (X + Y) + Z
+        
+is enough to calculate all additions. If we replace the definition of exp by 
+
+        exp ::= num | exp + exp | exp * exp
+
+we need to add equations
+
+	X * 1 = 1
+	X * Y = Y * X
+	X * ( Y + Z ) = X * Y + X * Z
+
+Note that we do not need `X + Y = Y + X`. This is only needed if we add variables, that is, if we replace the definition of exp by 
+
+        exp ::= num | exp + exp | exp * exp | x
+
+where `x` ranges of a set of "variables". 
+
+What about associativity of multiplication `X * ( Y * Z ) = ( X * Y ) * Z` ?
+
+And are the equations above really enough? What equation needs to be added if we take seriously that `+1` is different from the binary `+` ?
