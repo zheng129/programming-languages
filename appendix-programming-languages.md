@@ -23,3 +23,5 @@ there was also the question about using python for a machine learning project ..
 
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
 - [Julia](https://github.com/lindn100/CPSC354-Blog) (Ryan Lindner)
+- [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
+- Go (Grayson Berman, Parker Janke)
