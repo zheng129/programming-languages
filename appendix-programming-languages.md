@@ -19,7 +19,7 @@ there was also the question about using python for a machine learning project ..
 
 - machine learning Programming Languages data
 
-#### Programming languages that have been chosen by some of you
+#### Programming languages that have been chosen (thanks for getting things started!)
 
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
 - [Julia](https://github.com/lindn100/CPSC354-Blog) (Ryan Lindner)
