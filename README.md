@@ -12,4 +12,3 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 2.2](https://hackmd.io/s/rkk0tgxu7)  
 [Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/appendix-jargon.md)   
 [Appendix on Programming Languages](https://github.com/alexhkurz/programming-languages/blob/master/appendix-programming-languages.md)  
-https://hackmd.io/s/rkk0tgxu7
