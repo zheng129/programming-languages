@@ -9,6 +9,6 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 1.2](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.2.md)  
 [Lecture 1.3](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.3.md)  
 [Lecture 2.1](https://hackmd.io/hILQksyiTUW4mXxxOSF7eQ)  
-[Lecture 2.2]()  
+[Lecture 2.2](https://hackmd.io/s/B1gOX4lO7)  
 [Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/appendix-jargon.md)   
 [Appendix on Programming Languages](https://github.com/alexhkurz/programming-languages/blob/master/appendix-programming-languages.md)  
