@@ -1,4 +1,3 @@
-mixed-notes.md
 
 Let me know if you would want to hear more about sth in particular or if I should add sth to the lists below:
 
