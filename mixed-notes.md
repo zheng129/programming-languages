@@ -9,7 +9,8 @@ Some topics that showed up in the lectures but deserve more attention if there i
    - is our definition of the transitive closure of a relation a definition by induction?
    - ...
   
- - pattern matching
+ - pattern matching: our basic mechanism of computation is the following: given a term and a set of rules, choose a rule, apply the rule to the term, get a new term, keep on going (until no rule can be applied, in which case the term you got is the result). But applying the rule requires some kind of pattern matching. So what kind of pattern matching is allowed here? Can we increase computational power by making pattern matching more powerful?
+ 
  - computation is proof and proof is computation
  - equivalence relation: many important structures can be defined most elegantly as sets of equivalence classes: 
    - in economics: price
