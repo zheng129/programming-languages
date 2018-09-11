@@ -26,3 +26,4 @@ there was also the question about using python for a machine learning project ..
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
 - Go (Grayson Berman, Parker Janke)
 - Swift (Majid Aziz, Matthew Schwab, Alfonso Castanos)
+- Haskell (Daniel Briseno, ...)
