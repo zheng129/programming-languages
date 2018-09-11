@@ -4,10 +4,10 @@ Let me know if you would want to hear more about sth in particular or if I shoul
 Some topics that showed up in the lectures but deserve more attention if there is time:
 
  - induction: best known is induction on natural numbers. We have also seen induction on terms. What is the general principle? Can we explain induction in a way that it can account for all the different examples (and more):
-  - numbers
-  - terms
-  - is our definition of the transitive closure of a relation a definition by induction?
-  - ...
+   - numbers
+   - terms
+   - is our definition of the transitive closure of a relation a definition by induction?
+   - ...
   
  - pattern matching
  - computation is proof and proof is computation
