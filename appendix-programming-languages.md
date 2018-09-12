@@ -29,7 +29,7 @@ but there are also other ones such as Coq and Agda and, in particular,
 
 which is not only a proof assistant but also a fully fledged functional programming language about which it is said that Idris is what Haskell would look like if Haskell had been designed with dependent types. In my view Isabelle makes it easier to bring maths on the machine whereas Idris (and Coq and Agda) are a more natural starting point from a programmers perspective as they directly implement the the paradigm "proofs=programs".
 
-#### Programming languages that have been chosen (thanks for getting things started!)
+#### Programming languages that have been chosen (let me know if I missed some)
 
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
 - [Julia](https://github.com/lindn100/CPSC354-Blog) (Ryan Lindner)
