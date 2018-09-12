@@ -1,7 +1,7 @@
 # programming-languages
 Notes and Materials for a Course on Programming Languages
 
-Spoiler Alert: For now, I don't recommend reading the notes ahead of the lecture as I am planning to develop the material together in class, so it can be more fun and more interesting if you don't yet know where we are heading. 
+Spoiler Alert: For now, I don't recommend reading the notes ahead of the lecture as I am planning to develop the material together in class, so it can be more fun and more interesting if you don't yet know the answers to the questions I am going to ask in class. 
 
 Below are linked the files containing the material covered already. I expect you to have read and reviewed this material before the next lecture. If anything is unclear, let me know and I am happy to add material.
 
