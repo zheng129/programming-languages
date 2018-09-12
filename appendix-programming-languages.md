@@ -27,3 +27,5 @@ there was also the question about using python for a machine learning project ..
 - Go (Grayson Berman, Parker Janke)
 - Swift (Majid Aziz, Matthew Schwab, Alfonso Castanos)
 - Haskell (Daniel Briseno, ...)
+- IBM Q (Sam Kagan, Trevor Kling) 
+- ...
