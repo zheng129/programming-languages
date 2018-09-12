@@ -19,7 +19,7 @@ there was also the question about using python for a machine learning project ..
 
 - machine learning Programming Languages data
 
-On Friday, I will present you a class of programming languages called theorem provers or proof assistants, where programs are mathematical proofs. Proof assistants are not only a tool in programming languages, they are also a great way to learn more about logic from the point of view of a programmer (because you write proofs by writing programs). The proof assistant I will present is
+On Friday, I will present you a class of programming languages called theorem provers or proof assistants, where programs are mathematical proofs. Proof assistants are not only a tool in programming languages (see the course [concrete semantic](http://concrete-semantics.org) which teaches theorem proving and programming languages together), they are also a great way to learn more about logic from the point of view of a programmer (because you write proofs by writing programs). The proof assistant I will present is
 
 - [Isabelle](https://isabelle.in.tum.de)
 
