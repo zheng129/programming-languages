@@ -19,6 +19,16 @@ there was also the question about using python for a machine learning project ..
 
 - machine learning Programming Languages data
 
+On Friday, I will present you a class of programming languages called theorem provers or proof assistants, where programs are mathematical proofs. Proof assistants are not only a tool in programming languages, they are also a great way to learn more about logic from the point of view of a programmer (because you write proofs by writing programs). The proof assistant I will present is
+
+- [Isabelle](https://isabelle.in.tum.de)
+
+but there are also other ones such as Coq and Agda and, in particular, 
+
+- [Idris](http://docs.idris-lang.org/en/latest/tutorial/index.html)
+
+which is not only a proof assistant but also a fully fledged functional programming language about which it is said that Idris is what Haskell would look like if Haskell had been designed with dependent types.
+
 #### Programming languages that have been chosen (thanks for getting things started!)
 
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
