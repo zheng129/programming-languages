@@ -12,7 +12,7 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 2.2](https://hackmd.io/s/B1gOX4lO7): Discrete Maths: Sets and Relations (and Functions)  
 [Lecture 2.2-b](https://hackmd.io/s/SyIA3Lx_Q): Syntax, Semantics, Soundness, Completeness, revisited  
 [Lecture 3.1](https://hackmd.io/s/rkk0tgxu7): Abstract Reduction Systems: Examples  
-[Lecture 3.2 (for Wednesday)](https://hackmd.io/s/B1DPNGEdmAAA): Abstract Reduction Systems: Confluence and Unique Normal Forms  
+[Lecture 3.2 (for Wednesday)](https://hackmd.io/s/B1DPNGEdm): Abstract Reduction Systems: Confluence and Unique Normal Forms  
 [Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/appendix-jargon.md)   
 [Appendix on Programming Languages](https://github.com/alexhkurz/programming-languages/blob/master/appendix-programming-languages.md)  
 [What is still to come?](https://github.com/alexhkurz/programming-languages/blob/master/mixed-notes.md) A list of loose ends and possible topics to cover
