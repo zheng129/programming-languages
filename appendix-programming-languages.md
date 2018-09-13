@@ -41,4 +41,5 @@ which is not only a proof assistant but also a fully fledged functional programm
 - Fortran (Akash Arora, ... somebody wants to join?)
 - Javascript/JQuery (Theo Balestra, Rielle Dizon)
 - Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
-- 
+- Ruby on Rails (Brendan Forde, Tommy Madden)
+- ... 
