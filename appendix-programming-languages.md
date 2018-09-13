@@ -39,4 +39,6 @@ which is not only a proof assistant but also a fully fledged functional programm
 - Haskell (Daniel Briseno, ...)
 - IBM Q (Sam Kagan, Trevor Kling) 
 - Fortran (Akash Arora, ... somebody wants to join?)
-- ... 
+- Javascript/JQuery (Theo Balestra, Rielle Dizon)
+- Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
+- 
