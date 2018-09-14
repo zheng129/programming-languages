@@ -13,7 +13,7 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 2.2-b](https://hackmd.io/s/SyIA3Lx_Q): Syntax, Semantics, Soundness, Completeness (revisited)  
 [Lecture 3.1](https://hackmd.io/s/rkk0tgxu7): Abstract Reduction Systems: Examples  
 [Lecture 3.2](https://hackmd.io/s/B1DPNGEdm): Abstract Reduction Systems: Confluence and Unique Normal Forms  
-[Lecture 3.3](https://hackmd.io/s/H1panO_um): Excursion on Induction, Isabelle, Idris (Part 1)
+[Lecture 3.3](https://hackmd.io/s/H1panO_um): Excursion on Induction, Isabelle, Idris (Part 1)  
 [Lecture 4.1](): Excursion on Induction, Isabelle, Idris (Part 2)
 [Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/appendix-jargon.md)   
 [Appendix on Programming Languages](https://github.com/alexhkurz/programming-languages/blob/master/appendix-programming-languages.md)  
