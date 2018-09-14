@@ -1,4 +1,5 @@
 {-arithmetic.idr-}
+{-Samuel Balco, Sept 2018-}
 
 {- the following is pre-defined
 data Nat    = Z   | S Nat           -- Natural numbers
