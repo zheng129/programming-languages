@@ -1,6 +1,6 @@
 ## Summary of jargon and definitions
 
-(latest addition comes first, you may want to read bottom up)
+(read bottom up)
 
 #### normal form
 
