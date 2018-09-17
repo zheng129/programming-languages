@@ -4,7 +4,7 @@
 
 #### formal system
 
-As a generic term, the notion "formal system" does not have a precise definition. The idea is that a formal system is defined by rules that specify how to manipulate symbols in an effective way, that is, in a way that can be carried out by a machine. Examples inlcude large parts of mathematics or games such as chess. Indeed, by definition, formal systems coincide exactly with what can be implemented on a computer. Particular formal systems that we will study, will have precise definitions. Our first example is a formal language for arithmetic.
+As a generic term, the notion "formal system" does not have a precise definition. The idea is that a formal system is defined by rules that specify how to manipulate symbols in an effective way, that is, in a way that can be carried out by a machine. Examples inlcude large parts of mathematics or games such as chess. Indeed, by definition, formal systems coincide exactly with what can be implemented on a computer. Particular formal systems that we will study, will have precise definitions (hence implementations). Our first example is a formal language for arithmetic.
 
 #### abstract reduction system, (local) confluence, termination, Church-Rosser
 
