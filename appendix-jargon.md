@@ -6,6 +6,11 @@
 
 As a generic term, the notion "formal system" does not have a precise definition. The idea is that a formal system is defined by rules that specify how to manipulate symbols in an effective way, that is, in a way that can be carried out by a machine. Examples inlcude large parts of mathematics or games such as chess. Indeed, by definition, formal systems coincide exactly with what can be implemented on a computer. Particular formal systems that we will study, will have precise definitions. Our first example is a formal language for arithmetic.
 
+#### [abstract reduction system, (local) confluence, termination, Church-Rosser](https://hackmd.io/s/B1DPNGEdm)
+
+#### [syntax, semantics, soundness, completeness](https://hackmd.io/hILQksyiTUW4mXxxOSF7eQ)
+
+Rough summary: Syntax is used to describe a formal system that can be implemented, semantics is the way we assign meaning to synatx, and soundness and completeness say that the formal system exactly captures ("is isomorphic to") its meaning.
 
 #### normal form
 
