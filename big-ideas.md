@@ -35,7 +35,7 @@
 ## Semantics as a Structure Preserving Function
 
 - I could explain the  semantics (meaning) of German to you by translating German to English. This translation is a function that preserves the structure of the languages, for example, by mapping nouns to nouns and verbs to verbs, etc. 
-- The meaning of arithmetic expressions has been discussed in detail in [Lecture ]().
+- The meaning of arithmetic expressions has been discussed in detail in [Lecture ](). 
 
 ## Computation as Rewriting to Normal Form
 
