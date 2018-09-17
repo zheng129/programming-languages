@@ -16,5 +16,6 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 3.3](https://hackmd.io/s/H1panO_um): Excursion on Induction, Isabelle, Idris (Part 1)  
 [Lecture 4.1](): Excursion on Induction, Isabelle, Idris (Part 2)  
 [Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/appendix-jargon.md)   
+[Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/big-ideas.md)   
 [Appendix on Programming Languages](https://github.com/alexhkurz/programming-languages/blob/master/appendix-programming-languages.md)  
 [What is still to come?](https://github.com/alexhkurz/programming-languages/blob/master/mixed-notes.md) A list of loose ends and possible topics to cover
