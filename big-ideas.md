@@ -34,12 +34,12 @@ We will see many instance of this. For now, read again the lecture on [synatx an
 ## Meaning as a Quotient by an Equivalence Relation
 
 - The meaning of a fraction such as 3/6 is the set of all fractions that are equivalent such as 1/2, 2/4, 3/6, ... 
-- The meaning of arithmetic expressions has been discussed in detail in [Lecture ]().
+- The meaning of arithmetic expressions has been discussed in detail in [the second lecture on syntax and semantics](https://hackmd.io/s/SyIA3Lx_Q).
 
 ## Semantics as a Structure Preserving Function
 
 - I could explain the  semantics (meaning) of German to you by translating German to English. This translation is a function that preserves the structure of the languages, for example, by mapping nouns to nouns and verbs to verbs, etc. 
-- The meaning of arithmetic expressions has been discussed in detail in [Lecture ](). 
+- The meaning of arithmetic expressions has been discussed in detail in [the lecture on syntax and semantics](https://hackmd.io/hILQksyiTUW4mXxxOSF7eQ). 
 
 ## Computation as Rewriting to Normal Form
 
