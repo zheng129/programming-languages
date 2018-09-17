@@ -10,6 +10,11 @@ As a generic term, the notion "formal system" does not have a precise definition
 
 See [the lecture on ARSs](https://hackmd.io/s/B1DPNGEdm).
 
+#### relations: reflexive, symmetric, transitive, equivalence
+
+See [the lecture on discrete maths](https://hackmd.io/s/B1gOX4lO7).
+
+
 #### syntax, semantics, soundness, completeness
 
 Rough summary: Syntax is used to describe a formal system that can be implemented, semantics is the way we assign meaning to synatx, and soundness and completeness say that the formal system exactly captures ("is isomorphic to") its meaning. See [this lecture](https://hackmd.io/hILQksyiTUW4mXxxOSF7eQ) for details.
