@@ -9,15 +9,22 @@
 
 ## Compositionality
 
-We will see many instance of this. For now, read again the lecture on [synatx and semantics](https://hackmd.io/hILQksyiTUW4mXxxOSF7eQ).
+We will see many instances of this. For now, read again the lecture on [synatx and semantics](https://hackmd.io/hILQksyiTUW4mXxxOSF7eQ).
 
 ## Termination by Measuring the Size of a Computation
 
+... comes Wednesday ...
+
 ## Propositions = Types, Proofs = Programs
+
+We have seen an example of a recursive program that is a proof by induction in the [lecture on Idris](). 
 
 ## Induction: The Smallest Set Closed Under a Set of Rules
 
-[We discussed in some detail]() that the set of natural numbers, the transitive closure of a relation, the set of programming languages given by a context-free grammar and the set of true equations derivable from given axioms are all examples of inductively defined sets. 
+[We discussed in some detail](https://hackmd.io/s/H1panO_um) that the set of natural numbers, the transitive closure of a relation, the set of programming languages given by a context-free grammar and the set of true equations derivable from given axioms are all examples of inductively defined sets. 
+
+- The task to show that a given element `e` is in a given inductively defined set `S` amounts to finding a derivation that constructs the element `e` from the rules defining `S`. 
+- From this point of view, parsing and theorem proving is essentially the same activity.
 
 
 ## Confluent and Terminating Rewrite Systems have Unique Normal Forms
