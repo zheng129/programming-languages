@@ -25,4 +25,6 @@ I could explain the  semantics (meaning) of German to you by translating German 
 
 ### Computation as Rewriting to Normal Form
 
-Cancelling fractions rewrites them to normal form. Arithemtic expressions have been discussed in detail in [Lecture 1.2 and following]().
+- Cancelling fractions rewrites them to normal form. 
+- Arithemtic expressions have been discussed in detail in [Lecture 1.2 and following](). 
+- Programming languages will be discussed later.
