@@ -24,7 +24,7 @@ We will see many instance of this. For now, read again the lecture on [synatx an
 
 - Computing with equations is circular, because equations are symmetric, that is, can be applied from left to right and from right to left. For example, 1/2=2/4=1/2=2/4=...
 
-- Therefore it is good to have conditions under which any computation results in a unique result. (Local) confluence and termination are often not too hard to establish, see []().
+- Therefore it is good to have conditions under which any computation results in a unique result. (Local) confluence and termination are often not too hard to establish, see [the lectures on abstract reduction systems](https://hackmd.io/s/B1DPNGEdm).
 
 ## Normal Forms as Representatives of Equivalence Classes
 
