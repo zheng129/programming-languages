@@ -7,6 +7,10 @@
 
 (some big ideas that are still to come: free algebras, higher-order functions, type inference, polymorphism, co-induction, bisimulation, non-deterministic computation, shared memory, message-passing, synchronous vs asynchronous, ...)
 
+## Compositionality
+
+We will see many instance of this. For now, read again the lecture on [synatx and semantics](https://hackmd.io/hILQksyiTUW4mXxxOSF7eQ).
+
 ## Termination by Measuring the Size of a Computation
 
 ## Propositions = Types, Proofs = Programs
@@ -40,5 +44,5 @@
 ## Computation as Rewriting to Normal Form
 
 - [MWE](https://en.wikipedia.org/wiki/Minimal_working_example): Cancelling fractions rewrites them to normal form. 
-- Arithemtic expressions have been discussed in detail in [Lecture 1.2 and following](). 
+- Arithemtic expressions have been discussed in detail in [Lecture 1.2 and following](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.2.md). 
 - Programming languages will be discussed later.
