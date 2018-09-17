@@ -8,7 +8,7 @@ As a generic term, the notion "formal system" does not have a precise definition
 
 #### abstract reduction system, (local) confluence, termination, Church-Rosser
 
-See [the lecture on ARSs](https://hackmd.io/s/B1DPNGEdm)
+See [the lecture on ARSs](https://hackmd.io/s/B1DPNGEdm).
 
 #### syntax, semantics, soundness, completeness
 
