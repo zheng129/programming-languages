@@ -15,6 +15,7 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 3.2](https://hackmd.io/s/B1DPNGEdm): Abstract Reduction Systems: Confluence and Unique Normal Forms  
 [Lecture 3.3](https://hackmd.io/s/H1panO_um): Excursion on Induction, Isabelle, Idris (Part 1)  
 [Lecture 4.1](https://hackmd.io/s/HyV1IYYd7): Excursion on Induction, Isabelle, Idris (Part 2)  
+[Lecture 4.2](https://hackmd.io/s/BkXUkyw_Q): Abstract Reduction Systems: Termination    
 [Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/appendix-jargon.md)   
 [Appendix on Big Ideas](https://github.com/alexhkurz/programming-languages/blob/master/big-ideas.md)   
 [Appendix on Programming Languages](https://github.com/alexhkurz/programming-languages/blob/master/appendix-programming-languages.md)  
