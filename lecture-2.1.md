@@ -32,3 +32,6 @@
  - semantics (semantics is a map from syntax to "meaning" ... do you see the self-reference here?)
  - soundness (are the rules correct?)
  - completeness (do we have all rules?)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEzMTcyODU3OV19
+-->
