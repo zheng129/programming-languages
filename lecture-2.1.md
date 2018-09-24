@@ -32,6 +32,10 @@
  - semantics (semantics is a map from syntax to "meaning" ... do you see the self-reference here?)
  - soundness (are the rules correct?)
  - completeness (do we have all rules?)
+
+### Test
+
+$$a\to b\Rightarrow w^U$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTcyODU3OV19
+eyJoaXN0b3J5IjpbLTMzNTg4MDI0MV19
 -->
