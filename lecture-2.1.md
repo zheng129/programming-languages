@@ -33,9 +33,7 @@
  - soundness (are the rules correct?)
  - completeness (do we have all rules?)
 
-### Test
 
-$$a\to b\Rightarrow w^U$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTg4MDI0MV19
+eyJoaXN0b3J5IjpbMTE2Mzk3MDU5MV19
 -->
