@@ -15,7 +15,7 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 3.2](https://hackmd.io/s/B1DPNGEdm): Abstract Reduction Systems: Confluence and Unique Normal Forms  
 [Lecture 3.3](https://hackmd.io/s/H1panO_um): Excursion on Induction, Isabelle, Idris (Part 1)  
 [Lecture 4.1](https://hackmd.io/s/HyV1IYYd7): Excursion on Induction, Isabelle, Idris (Part 2)  
-[Lecture 4.2](https://hackmd.io/s/BkXUkyw_Q): Abstract Reduction Systems: Termination
+[Lecture 4.2](https://hackmd.io/s/BkXUkyw_Q): Abstract Reduction Systems: Termination  
 [Lecture 4.3](https://hackmd.io/s/S1KcSWeYQ): Abstract Reduction Systems: Termination, cont'd  
 
 [Lecture 5.1](): Excursion on the rules of logic  
