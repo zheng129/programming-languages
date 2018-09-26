@@ -32,14 +32,16 @@ which is not only a proof assistant but also a fully fledged functional programm
 #### Programming languages that have been chosen (let me know if I missed some)
 
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
-- [Julia](https://github.com/lindn100/CPSC354-Blog) (Ryan Lindner)
+- [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Cannan, Ryan Lindner)
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
 - Go (Grayson Berman, Parker Janke)
 - Swift (Majid Aziz, Matthew Schwab, Alfonso Castanos)
-- Haskell (Daniel Briseno, ...)
+- Haskell (Daniel Briseno, Colton Gering)
 - IBM Q (Sam Kagan, Trevor Kling) 
 - Fortran (Akash Arora, ... somebody wants to join?)
 - Javascript/JQuery (Theo Balestra, Rielle Dizon)
 - Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
 - Ruby on Rails (Brendan Forde, Tommy Madden)
+- Go (Nicole Fergie)
+- 
 - ... 
