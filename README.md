@@ -18,7 +18,9 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 4.2](https://hackmd.io/s/BkXUkyw_Q): Abstract Reduction Systems: Termination  
 [Lecture 4.3](https://hackmd.io/s/S1KcSWeYQ): Abstract Reduction Systems: Termination, cont'd  
 [Lecture 5.1](https://hackmd.io/s/Hyxy7veIKX): Excursion on the rules of logic  
-[Lecture 5.2](https://hackmd.io/s/HyddlMKtX):   Abstract Reduction Systems: Termination, cont'd  
+[Lecture 5.2](https://hackmd.io/s/HyddlMKtX):  Abstract Reduction Systems: Termination, cont'd  
+[Lecture 5.3](https://hackmd.io/s/rysQwJ2KX):  Invariants
+[Lecture 6.1]():   
 
 
 [Lecture 5.2](): Discrete Maths: Orders  
