@@ -20,11 +20,8 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 5.1](https://hackmd.io/s/Hyxy7veIKX): Excursion on the rules of logic  
 [Lecture 5.2](https://hackmd.io/s/HyddlMKtX):  Abstract Reduction Systems: Termination, cont'd  
 [Lecture 5.3](https://hackmd.io/s/rysQwJ2KX):  Invariants    
-[Lecture 6.1]():   
+[Lecture 6.1](): continued from Lecture 5.2   
 
-
-[Lecture 5.2](): Discrete Maths: Orders  
-[Lecture 5.2-b](): Abstract Reduction Systems: Termination, cont'd    
  
 [Exercises](https://hackmd.io/s/HJQNfRbtX): Exercises are a preparation for the final exam and should be solved by all students.  
 [Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/appendix-jargon.md)   
