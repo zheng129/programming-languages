@@ -39,7 +39,7 @@ which is not only a proof assistant but also a fully fledged functional programm
 - Haskell (Daniel Briseno, Colton Gering)
 - IBM Q (Sam Kagan, Trevor Kling) 
 - Fortran (Akash Arora, ... somebody wants to join?)
-- Javascript/JQuery (Theo Balestra, Rielle Dizon)
+- Javascript/JQuery (Theo Balestra, Rielle Dizon, Monique Namsinh)
 - Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
 - Ruby on Rails (Brendan Forde, Tommy Madden)
 - Go (Nicole Fergie)
