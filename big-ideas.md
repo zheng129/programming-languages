@@ -5,7 +5,15 @@
 
 ## ...
 
-(some big ideas that are still to come: free algebras, higher-order functions, type inference, polymorphism, co-induction, bisimulation, non-deterministic computation, shared memory, message-passing, synchronous vs asynchronous, ...)
+(some big ideas that are still to come: variables, scope, binding, free algebras, higher-order functions, type inference, polymorphism, co-induction, bisimulation, non-deterministic computation, shared memory, message-passing, synchronous vs asynchronous, ... not all of this unfortunately ... )
+
+## Normalisation by Evaluation
+
+see [here](https://hackmd.io/s/rkqjXBW9X) 
+
+## Invariants
+
+see [here](https://hackmd.io/s/rysQwJ2KX) 
 
 ## Compositionality
 
@@ -13,11 +21,11 @@ We will see many instances of this. For now, read again the lecture on [synatx a
 
 ## Termination by Measuring the Size of a Computation
 
-... comes Wednesday ...
+see [here](https://hackmd.io/s/BkXUkyw_Q) and following
 
-## Propositions = Types, Proofs = Programs
+## Propositions = Types, Proofs = Programs, Induction = Recursion
 
-We have seen an example of a recursive program that is a proof by induction in the [lecture on Idris](). 
+We have seen an example of a recursive program that is a proof by induction in the [lecture on Idris](https://hackmd.io/s/HyV1IYYd7). 
 
 ## Induction: The Smallest Set Closed Under a Set of Rules
 
