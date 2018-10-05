@@ -43,5 +43,5 @@ which is not only a proof assistant but also a fully fledged functional programm
 - Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
 - Ruby on Rails (Brendan Forde, Tommy Madden)
 - Go (Nicole Fergie)
-- 
+- Common Lisp (Gregory Albarian, Sabrina Toubbeh)
 - ... 
