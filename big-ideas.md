@@ -7,6 +7,8 @@
 
 (some big ideas that are still to come: variables, scope, binding, free algebras, higher-order functions, type inference, polymorphism, co-induction, bisimulation, non-deterministic computation, shared memory, message-passing, synchronous vs asynchronous, ... not all of this unfortunately ... )
 
+(could be added now: terms as trees (parsing), formalising mathematical proofs in theorem provers, two dimensional syntax and string diagrams, ...)
+
 ## Normalisation by Evaluation
 
 see [here](https://hackmd.io/s/rkqjXBW9X) 
