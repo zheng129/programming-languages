@@ -23,7 +23,7 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 6.1](): ... continued from Lecture 5.2   
 [Lecture 6.2](https://hackmd.io/s/rkqjXBW9X): Normalisation by Evaluation   
 [Lecture 6.3](): ... continued  from Lecture 6.2   
-[Lecture 7,1](https://hackmd.io/s/H1STFZVq7): Hoare Logic
+[Lecture 7.1](https://hackmd.io/s/H1STFZVq7): Hoare Logic
 
 
  
