@@ -44,4 +44,5 @@ which is not only a proof assistant but also a fully fledged functional programm
 - Ruby on Rails (Brendan Forde, Tommy Madden)
 - Go (Nicole Fergie)
 - Common Lisp (Gregory Albarian, Sabrina Toubbeh)
+- Haskell (Yixing Zheng)
 - ... 
