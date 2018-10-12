@@ -1,4 +1,25 @@
-##### Programming languages you were interested in
+
+
+#### Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
+
+- [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
+- [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Cannan, Ryan Lindner)
+- [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
+- Go (Grayson Berman, Parker Janke)
+- Swift (Majid Aziz, Matthew Schwab, Alfonso Castanos)
+- Haskell (Daniel Briseno, Colton Gering)
+- IBM Q (Sam Kagan, Trevor Kling) 
+- Fortran (Akash Arora, ... somebody wants to join?)
+- Javascript/JQuery (Theo Balestra, Rielle Dizon, Monique Namsinh)
+- Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
+- Ruby on Rails (Brendan Forde, Tommy Madden)
+- Go (Nicole Fergie)
+- Common Lisp (Gregory Albarian, Sabrina Toubbeh)
+- Haskell (Yixing Zheng)
+- ... 
+
+
+##### For the record: Programming languages that came up in the discussions
 
 - Fortran/Algol (sth old), 
 - Go, 
@@ -28,21 +49,3 @@ but there are also other ones such as Coq and Agda and, in particular,
 - [Idris](http://docs.idris-lang.org/en/latest/tutorial/index.html)
 
 which is not only a proof assistant but also a fully fledged functional programming language about which it is said that Idris is what Haskell would look like if Haskell had been designed with dependent types. In my view Isabelle makes it easier to bring maths on the machine whereas Idris (and Coq and Agda) are a more natural starting point from a programmers perspective as they directly implement the the paradigm "proofs=programs".
-
-#### Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
-
-- [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
-- [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Cannan, Ryan Lindner)
-- [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
-- Go (Grayson Berman, Parker Janke)
-- Swift (Majid Aziz, Matthew Schwab, Alfonso Castanos)
-- Haskell (Daniel Briseno, Colton Gering)
-- IBM Q (Sam Kagan, Trevor Kling) 
-- Fortran (Akash Arora, ... somebody wants to join?)
-- Javascript/JQuery (Theo Balestra, Rielle Dizon, Monique Namsinh)
-- Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
-- Ruby on Rails (Brendan Forde, Tommy Madden)
-- Go (Nicole Fergie)
-- Common Lisp (Gregory Albarian, Sabrina Toubbeh)
-- Haskell (Yixing Zheng)
-- ... 
