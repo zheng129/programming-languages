@@ -16,7 +16,7 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 3.3](https://hackmd.io/s/H1panO_um): How does induction really work? Or: Excursion on Induction, Isabelle, Idris (Part 1)  
 [Lecture 4.1](https://hackmd.io/s/HyV1IYYd7): Excursion on Induction, Isabelle, Idris (Part 2)  
 [Lecture 4.2](https://hackmd.io/s/BkXUkyw_Q): Abstract Reduction Systems: Termination  
-[Lecture 4.3](https://hackmd.io/s/S1KcSWeYQ): Abstract Reduction Systems: Termination, cont'd  
+[Lecture 4.3](https://hackmd.io/s/S1KcSWeYQ): Abstract Reduction Systems: Termination (Finitely Branching Systems)    
 [Lecture 5.1](https://hackmd.io/s/Hyxy7veIKX): Excursion on the rules of logic  
 [Lecture 5.2, 6.1](https://hackmd.io/s/HyddlMKtX):  Abstract Reduction Systems: Termination (Lexicographic Orderings)  
 [Lecture 5.3](https://hackmd.io/s/rysQwJ2KX):  Invariants    
