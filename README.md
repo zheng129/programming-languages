@@ -8,9 +8,9 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 1.1](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.1.md): Overview and Organisation  
 [Lecture 1.2](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.2.md): What is Computation? Numbers, Addition, Multiplication  
 [Lecture 1.3](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.3.md): Computing with High-School Algebra: Adding Variables  
-[Lecture 2.1](https://hackmd.io/hILQksyiTUW4mXxxOSF7eQ): Syntax, Semantics, Soundness, Completeness  
+[Lecture 2.1](https://hackmd.io/hILQksyiTUW4mXxxOSF7eQ): Syntax, Semantics, Soundness, Completeness  (Part 1)
 [Lecture 2.2](https://hackmd.io/s/B1gOX4lO7): Discrete Maths: Sets and Relations (and Functions)  
-[Lecture 2.2-b](https://hackmd.io/s/SyIA3Lx_Q): Meaning in Syntax. Or: Syntax, Semantics, Soundness, Completeness (revisited)  
+[Lecture 2.2-b](https://hackmd.io/s/SyIA3Lx_Q): Meaning in Syntax. Or: Syntax, Semantics, Soundness, Completeness (Part 2)  
 [Lecture 3.1](https://hackmd.io/s/rkk0tgxu7): Abstract Reduction Systems: Introductory Examples  
 [Lecture 3.2](https://hackmd.io/s/B1DPNGEdm): Abstract Reduction Systems: Confluence and Normal Forms  
 [Lecture 3.3](https://hackmd.io/s/H1panO_um): How does induction really work? Or: Excursion on Induction, Isabelle, Idris (Part 1)  
