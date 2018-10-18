@@ -6,7 +6,7 @@
 - [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Cannan, Ryan Lindner)
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
 - Go (Grayson Berman, Parker Janke)
-- Swift (Majid Aziz, Matthew Schwab, Alfonso Castanos)
+- [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, Matthew Schwab, Alfonso Castanos)
 - Haskell (Daniel Briseno, Colton Gering)
 - IBM Q (Sam Kagan, Trevor Kling) 
 - Fortran (Akash Arora, ... somebody wants to join?)
