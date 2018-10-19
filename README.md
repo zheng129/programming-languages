@@ -5,6 +5,8 @@ Spoiler Alert: For now, I don't recommend reading the notes ahead of the lecture
 
 Below are linked the files containing the material covered already. I expect you to have read and reviewed this material before the next lecture. If anything is unclear, let me know and I am happy to add material.
 
+Remark: An interesting discussion on the relationship between programming languages in industry and research can be found in [Martin Berger's post](https://cstheory.stackexchange.com/questions/24884/use-of-process-calculi-and-pl-theory-for-modern-programming-language-development) at stack exchange. To quote "cutting edge theory does not address the concerns of current programming languages. It is about future languages. It will take a while for the 'real world' to catch up. The knowledge you use to build languages for today is the programming language theory of the past." As this is an introductory course to programming languages I will concentrate mostly on such well established theory of the past up to say, very roughly, 1990. I hope that at the end of the course you will agree that this theory is useful for real world programmers now.
+
 [Lecture 1.1](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.1.md): Overview and Organisation  
 [Lecture 1.2](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.2.md): What is Computation? Numbers, Addition, Multiplication  
 [Lecture 1.3](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.3.md): Computing with High-School Algebra: Adding Variables  
