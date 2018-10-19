@@ -27,7 +27,7 @@ Lecture 8.1: Wrapping up [Hoare logic](https://hackmd.io/s/H1STFZVq7) plus an ex
 
  
 [Exercises](https://hackmd.io/s/HJQNfRbtX): Exercises are a preparation for the final exam and should be solved by all students.  
-[Indes on mathematics]()   
+[Index on mathematics](https://github.com/alexhkurz/programming-languages/blob/master/index-of-maths)   
 [Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/appendix-jargon.md)   
 [Appendix on Big Ideas](https://github.com/alexhkurz/programming-languages/blob/master/big-ideas.md)   
 [Appendix on Programming Languages](https://github.com/alexhkurz/programming-languages/blob/master/appendix-programming-languages.md)  
