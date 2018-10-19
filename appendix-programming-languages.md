@@ -8,7 +8,7 @@
 - Go (Grayson Berman, Parker Janke)
 - [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, Matthew Schwab, Alfonso Castanos)
 - Haskell (Daniel Briseno, Colton Gering)
-- IBM Q (Sam Kagan, Trevor Kling) 
+- [IBM Q](https://onp4.com/@kagan105/~cpsc354-final-project---trevor-kling-and-sam-kagan) (Sam Kagan, Trevor Kling) 
 - Fortran (Akash Arora, ... somebody wants to join?)
 - Javascript/JQuery (Theo Balestra, Rielle Dizon, Monique Namsinh)
 - [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
