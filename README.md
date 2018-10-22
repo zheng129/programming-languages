@@ -7,7 +7,8 @@ Below are linked the files containing the material covered already. I expect you
 
 Remark: An interesting discussion on the relationship between programming languages in industry and research can be found in [Martin Berger's post](https://cstheory.stackexchange.com/questions/24884/use-of-process-calculi-and-pl-theory-for-modern-programming-language-development) at stack exchange. To quote "cutting edge theory does not address the concerns of current programming languages. It is about future languages. It will take a while for the 'real world' to catch up. The knowledge you use to build languages for today is the programming language theory of the past." As this is an introductory course to programming languages I will concentrate mostly on such well established theory of the past up to say, very roughly, 1995. I hope that at the end of the course you will agree that this theory is useful for real world programmers now.
 
-We will touch on many topics that are treated in much greater depth in the first two volumes of the series of online textbooks on [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html), which I recommend for further reading. A related course is [here](https://plfa.github.io/Preface/). Other references will be added to the lectures.
+We will touch on many topics that are treated in much greater depth in the first two volumes of the series of online textbooks on [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html), which I recommend for further reading. A related course is [Programming Language Foundations in Agda
+](https://plfa.github.io/Preface/). Other references will be added to the lectures.
 
 [Lecture 1.1](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.1.md): Overview and Organisation  
 [Lecture 1.2](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.2.md): What is Computation? Numbers, Addition, Multiplication  
