@@ -28,7 +28,7 @@ We will touch on many topics that are treated in much greater depth in the first
 [Lecture 6.2-6.3](https://hackmd.io/s/rkqjXBW9X): Normalisation by Evaluation   
 [Lecture 7.1-7.3](https://hackmd.io/s/H1STFZVq7): Hoare Logic  
 Lecture 8.1: Wrapping up [Hoare logic](https://hackmd.io/s/H1STFZVq7) plus an excursion on the [mathematics of software engineering](https://hackmd.io/s/rJNFdNzo7)  
-[Lecture 8.2,8.3](https://hackmd.io/s/Hk7_Dfyj7): Universal Algebra  
+[Lecture 8.2,8.3,9.1](https://hackmd.io/s/Hk7_Dfyj7): Universal Algebra (Abstract Data Types, Variables)   
 
  
 [Exercises](https://hackmd.io/s/HJQNfRbtX): Exercises are a preparation for the final exam and should be solved by all students.  
