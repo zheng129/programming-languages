@@ -2,6 +2,7 @@
 
 #### Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
 
+
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
 - [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Cannan, Ryan Lindner)
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)

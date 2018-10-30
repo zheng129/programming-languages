@@ -5,6 +5,11 @@ Spoiler Alert: For now, I don't recommend reading the notes ahead of the lecture
 
 Below are linked the files containing the material covered already. I expect you to have read and reviewed this material before the next lecture. If anything is unclear, let me know and I am happy to add material.
 
+Remark: An interesting discussion on the relationship between programming languages in industry and research can be found in [Martin Berger's post](https://cstheory.stackexchange.com/questions/24884/use-of-process-calculi-and-pl-theory-for-modern-programming-language-development) at stack exchange. To quote "cutting edge theory does not address the concerns of current programming languages. It is about future languages. It will take a while for the 'real world' to catch up. The knowledge you use to build languages for today is the programming language theory of the past." As this is an introductory course to programming languages I will concentrate mostly on such well established theory of the past up to say, very roughly, 1995. I hope that at the end of the course you will agree that this theory is useful for real world programmers now.
+
+We will touch on many topics that are treated in much greater depth in the first two volumes of the series of online textbooks on [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html), which I recommend for further reading. A related course is [Programming Language Foundations in Agda
+](https://plfa.github.io/Preface/). Other references will be added to the lectures.
+
 [Lecture 1.1](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.1.md): Overview and Organisation  
 [Lecture 1.2](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.2.md): What is Computation? Numbers, Addition, Multiplication  
 [Lecture 1.3](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.3.md): Computing with High-School Algebra: Adding Variables  
@@ -23,10 +28,15 @@ Below are linked the files containing the material covered already. I expect you
 [Lecture 6.2-6.3](https://hackmd.io/s/rkqjXBW9X): Normalisation by Evaluation   
 [Lecture 7.1-7.3](https://hackmd.io/s/H1STFZVq7): Hoare Logic  
 Lecture 8.1: Wrapping up [Hoare logic](https://hackmd.io/s/H1STFZVq7) plus an excursion on the [mathematics of software engineering](https://hackmd.io/s/rJNFdNzo7)  
-[Lecture 8.2](https://hackmd.io/s/Hk7_Dfyj7): Universal Algebra  
+[Lecture 8.2-8.3](https://hackmd.io/s/Hk7_Dfyj7): Universal Algebra: Abstract Data Types  
+[Lecture 9.1](https://hackmd.io/s/HkYir7AiQ): Structure Preserving Maps  
+[Lecture 9.2-10.1](https://hackmd.io/s/Bymo_vCj7): Universal Algebra: Termalgebras, Homomorphisms, Initiality, Induction   
+[Lecture 10.2](https://hackmd.io/s/By3OtPAsQ): Universal Algebra: Variables, Free Algebras, Equations   
+[Lecture 10.3]() Term Rewriting   
 
  
 [Exercises](https://hackmd.io/s/HJQNfRbtX): Exercises are a preparation for the final exam and should be solved by all students.  
+[Index on mathematics](https://github.com/alexhkurz/programming-languages/blob/master/index-of-maths.md)   
 [Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/appendix-jargon.md)   
 [Appendix on Big Ideas](https://github.com/alexhkurz/programming-languages/blob/master/big-ideas.md)   
 [Appendix on Programming Languages](https://github.com/alexhkurz/programming-languages/blob/master/appendix-programming-languages.md)  
