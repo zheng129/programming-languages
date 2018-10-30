@@ -17,7 +17,7 @@
 - Ruby on Rails (Brendan Forde, Tommy Madden)
 - [Go](https://github.com/nfergie/PlBlog) (Nicole Fergie)
 - Common Lisp (Gregory Albarian, Sabrina Toubbeh)
-- Haskell (Yixing Zheng)
+- [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
 - ... 
 
 
