@@ -15,7 +15,7 @@
 - [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
 - Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
 - Ruby on Rails (Brendan Forde, Tommy Madden)
-- Go (Nicole Fergie)
+- [Go](https://github.com/nfergie/PlBlog) (Nicole Fergie)
 - Common Lisp (Gregory Albarian, Sabrina Toubbeh)
 - Haskell (Yixing Zheng)
 - ... 
