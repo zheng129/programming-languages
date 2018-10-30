@@ -2,21 +2,22 @@
 
 #### Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
 
-- [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)  
-- [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Cannan, Ryan Lindner)  
-- [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)  
-- Go (Grayson Berman, Parker Janke)  
-- [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, Matthew Schwab, Alfonso Castanos)  
-- Haskell (Daniel Briseno, Colton Gering)  
-- IBM Q (Sam Kagan, Trevor Kling) 
-- Fortran (Akash Arora, ... somebody wants to join?)  
-- Javascript/JQuery (Theo Balestra, Rielle Dizon, Monique Namsinh)  
-- [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)  
-- Elixir (Cole Gotelli, Nick Lai, Charlie Liu)  
-- Ruby on Rails (Brendan Forde, Tommy Madden)  
-- [Go](https://github.com/nfergie/PlBlog) (Nicole Fergie)  
-- Common Lisp (Gregory Albarian, Sabrina Toubbeh)  
-- [Haskell](https://yixingz.com/blog/) (Yixing Zheng)  
+
+- [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
+- [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Cannan, Ryan Lindner)
+- [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
+- Go (Grayson Berman, Parker Janke)
+- [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, Matthew Schwab, Alfonso Castanos)
+- Haskell (Daniel Briseno, Colton Gering)
+- [IBM Q](https://onp4.com/@kagan105/~cpsc354-final-project---trevor-kling-and-sam-kagan) (Sam Kagan, Trevor Kling) 
+- Fortran (Akash Arora, ... somebody wants to join?)
+- Javascript/JQuery (Theo Balestra, Rielle Dizon, Monique Namsinh)
+- [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
+- Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
+- Ruby on Rails (Brendan Forde, Tommy Madden)
+- Go (Nicole Fergie)
+- Common Lisp (Gregory Albarian, Sabrina Toubbeh)
+- Haskell (Yixing Zheng)
 - ... 
 
 
