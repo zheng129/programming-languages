@@ -13,7 +13,7 @@
 - Fortran (Akash Arora, ... somebody wants to join?)
 - Javascript/JQuery (Theo Balestra, Rielle Dizon, Monique Namsinh)
 - [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
-- Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
+- [Elixir](https://github.com/ColeGotelli/Elixir) (Cole Gotelli, Nick Lai, Charlie Liu)
 - Ruby on Rails (Brendan Forde, Tommy Madden)
 - [Go](https://github.com/nfergie/PlBlog) (Nicole Fergie)
 - Common Lisp (Gregory Albarian, Sabrina Toubbeh)
