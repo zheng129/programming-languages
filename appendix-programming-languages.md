@@ -14,7 +14,7 @@
 - Javascript/JQuery (Theo Balestra, Rielle Dizon, Monique Namsinh)
 - [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
 - [Elixir](https://github.com/ColeGotelli/Elixir) (Cole Gotelli, Nick Lai, Charlie Liu)
-- Ruby on Rails (Brendan Forde, Tommy Madden)
+- [Ruby on Rails]( https://tommymadden.com/blog/programming_languages/index.php) (Brendan Forde, Tommy Madden)
 - [Go](https://github.com/nfergie/PlBlog) (Nicole Fergie)
 - Common Lisp (Gregory Albarian, Sabrina Toubbeh)
 - [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
