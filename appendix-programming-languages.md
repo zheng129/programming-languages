@@ -6,7 +6,7 @@
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
 - [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Cannan, Ryan Lindner)
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
-- Go (Grayson Berman, Parker Janke)
+- [Go](https://github.com/GraysonBerman/GoLangRepo) (Grayson Berman, Parker Janke)
 - [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, Matthew Schwab, Alfonso Castanos)
 - [Haskell](https://github.com/brisenodaniel/Prgrm_Lang_Project) (Daniel Briseno, Colton Gering)
 - [IBM Q](https://onp4.com/@kagan105/~cpsc354-final-project---trevor-kling-and-sam-kagan) (Sam Kagan, Trevor Kling) 
