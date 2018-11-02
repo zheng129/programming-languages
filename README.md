@@ -31,7 +31,7 @@ Lecture 8.1: Wrapping up [Hoare logic](https://hackmd.io/s/H1STFZVq7) plus an ex
 [Lecture 8.2-8.3](https://hackmd.io/s/Hk7_Dfyj7): Universal Algebra: Abstract Data Types  
 [Lecture 9.1](https://hackmd.io/s/HkYir7AiQ): Structure Preserving Maps  
 [Lecture 9.2-10.1](https://hackmd.io/s/Bymo_vCj7): Universal Algebra: Termalgebras, Homomorphisms, Initiality, Induction   
-[Lecture 10.2](https://hackmd.io/s/By3OtPAsQ): Universal Algebra: Variables, Free Algebras, Equations   
+[Lecture 10.2](https://hackmd.io/s/By3OtPAsQ): Universal Algebra: Variables, Free Algebras  
 [Lecture ??](https://hackmd.io/s/HyMesfK3Q): Universal Algebra: Equations (this is can be skipped for now, treat it as additional background)  
 [Lecture 10.3](https://hackmd.io/s/BJLCzAKnQ) Term Rewriting   
 
