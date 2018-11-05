@@ -35,7 +35,8 @@ Lecture 8.1: Wrapping up [Hoare logic](https://hackmd.io/s/H1STFZVq7) plus an ex
 [Lecture ??](https://hackmd.io/s/HyMesfK3Q): Universal Algebra: Equations (this is can be skipped for now, treat it as additional background)  
 [Lecture 10.3](https://hackmd.io/s/BJLCzAKnQ) Term Rewriting   
 Lecture 11.1: [Term Rewriting](https://hackmd.io/s/BJLCzAKnQ) finished, a brief explanation of  [congruence relations](https://hackmd.io/s/HyMesfK3Q#Congruence-relations) and an introduction to  [Variables, Binding, Scope](https://hackmd.io/s/SkQzDC6n7)  
- 
+[Lecture 11.2](https://hackmd.io/s/S1PpQSCn7) Lambda Calculus     
+
 [Exercises](https://hackmd.io/s/HJQNfRbtX): Exercises are a preparation for the final exam and should be solved by all students.  
 [Index on mathematics](https://github.com/alexhkurz/programming-languages/blob/master/index-of-maths.md)   
 [Appendix on Jargon](https://github.com/alexhkurz/programming-languages/blob/master/appendix-jargon.md)   
