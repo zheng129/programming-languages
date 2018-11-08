@@ -29,12 +29,12 @@ Lecture 8.1: Wrapping up [Hoare logic](https://hackmd.io/s/H1STFZVq7) plus an ex
 [Lecture 9.2-10.1](https://hackmd.io/s/Bymo_vCj7): Universal Algebra: Termalgebras, Homomorphisms, Initiality, Induction   
 [Lecture 10.2](https://hackmd.io/s/By3OtPAsQ): Universal Algebra: Variables, Free Algebras  
 [Lecture ??](https://hackmd.io/s/HyMesfK3Q): Universal Algebra: Equations (this is can be skipped for now, treat it as additional background)  
-[Lecture 10.3](https://hackmd.io/s/BJLCzAKnQ) Term Rewriting   
+[Lecture 10.3](https://hackmd.io/s/BJLCzAKnQ): Term Rewriting   
 Lecture 11.1: Term Rewriting cont'd,  [congruence relations](https://hackmd.io/s/HyMesfK3Q#Congruence-relations),  an introduction to  [Binding, Scope and Substitution](https://hackmd.io/s/SkQzDC6n7)  
 Lecture 11.2:  Binding, Scope and Substitution cont'd  
 Lecture 11.2:  [Excursion on an economics example](https://hackmd.io/s/rkUxnAgTQ): Price as a homomorphism  
-[Lecture 11.3](https://hackmd.io/s/S1PpQSCn7) Lambda Calculus     
-[Lecture 12.1](https://hackmd.io/s/r1kDshkaX) The Untyped Lambda Calculus     
+[Lecture 11.3](https://hackmd.io/s/S1PpQSCn7): Lambda Calculus     
+[Lecture 12.1](https://hackmd.io/s/r1kDshkaX): The Untyped Lambda Calculus     
 
 
 
