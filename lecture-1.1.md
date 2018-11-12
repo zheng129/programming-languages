@@ -100,6 +100,8 @@ One of the oldest science blogs (mostly physics and maths) is by legendary John 
 			
 My friend and colleague Pawel Sobocinski is breaking new ground with his blog on linear algebra as a programming language: 
 			https://graphicallinearalgebra.net
+			
+In Andrej Bauer's blog [Mathematics and Computation](http://math.andrej.com/) you can find a lot of what is hot (and HoTT) in programming language research at the moment. The blog also draws very interesting comments and discussions.
 		
 Of course there many more ... let me know your favourites ... a recent example (thanks to Justin Dressel) that is very relevant for programming language design is 
 			https://queue.acm.org/detail.cfm?id=3212479
