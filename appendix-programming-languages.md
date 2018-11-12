@@ -19,7 +19,6 @@
 - [Go](https://github.com/nfergie/PlBlog) (Nicole Fergie)
 - Common Lisp (Gregory Albarian, Sabrina Toubbeh)
 - [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
-- ... 
 
 
 ##### For the record: Programming languages that came up in the discussions
