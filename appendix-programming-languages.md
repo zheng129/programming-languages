@@ -4,7 +4,7 @@
 
 
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
-- [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Cannan, Ryan Lindner)
+- [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Canaan, Ryan Lindner)
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
 - [Go](https://github.com/GraysonBerman/GoLangRepo) (Grayson Berman, Parker Janke)
 - [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, Matthew Schwab, Alfonso Castanos)
