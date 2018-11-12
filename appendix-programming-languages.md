@@ -3,11 +3,11 @@
 #### Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
 
 
-<!-- - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney) -->
+- [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
 - [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Cannan, Ryan Lindner)
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
 - [Go](https://github.com/GraysonBerman/GoLangRepo) (Grayson Berman, Parker Janke)
-- [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, <!--Matthew Schwab,--> Alfonso Castanos)
+- [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, Matthew Schwab, Alfonso Castanos)
 - [Haskell](https://github.com/brisenodaniel/Prgrm_Lang_Project) (Daniel Briseno, Colton Gering)
 - [IBM Q](https://onp4.com/@kagan105/~cpsc354-final-project---trevor-kling-and-sam-kagan) (Sam Kagan, Trevor Kling) 
 - [Fortran](https://arora110.wixsite.com/cpsc354) (Akash Arora)
