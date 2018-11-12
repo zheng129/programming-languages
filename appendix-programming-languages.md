@@ -11,7 +11,7 @@
 - [Haskell](https://github.com/brisenodaniel/Prgrm_Lang_Project) (Daniel Briseno, Colton Gering)
 - [IBM Q](https://onp4.com/@kagan105/~cpsc354-final-project---trevor-kling-and-sam-kagan) (Sam Kagan, Trevor Kling) 
 - [Fortran](https://arora110.wixsite.com/cpsc354) (Akash Arora)
-- [Rust](https://github.com/tbalestra/RUST-and-Web-Assembly) (Theo Balestra, Rielle Dizon)
+- [Rust and WebAssembly](https://github.com/tbalestra/RUST-and-Web-Assembly) (Theo Balestra, Rielle Dizon)
 - [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
 - [Elixir](https://github.com/ColeGotelli/Elixir) (Cole Gotelli, Nick Lai, Charlie Liu)
 - [Ruby on Rails]( https://tommymadden.com/blog/programming_languages/index.php) (Brendan Forde, Tommy Madden)
