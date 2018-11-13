@@ -16,7 +16,6 @@
 
 #### Termalgebras
 
-Termalgebras
 - turn syntax into an algebra and allow us to have both syntax and semantics as objects in the same category;
 - provide a simple mechanism to turn meta-variables into object-variables and 
 - to do pattern matching in equational logic (via the congruence and substitution rule) and, thus, to reduce the typically infinite number of rewrite rules to a finite number of equations. 
