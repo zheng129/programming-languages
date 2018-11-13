@@ -34,9 +34,11 @@ Lecture 11.1: Term Rewriting cont'd,  [congruence relations](https://hackmd.io/s
 Lecture 11.2:  Binding, Scope and Substitution cont'd  
 Lecture 11.2:  [Excursion on an economics example](https://hackmd.io/s/rkUxnAgTQ): Price as a homomorphism  
 [Lecture 11.3](https://hackmd.io/s/S1PpQSCn7): Lambda Calculus     
-[Lecture 12.1](https://hackmd.io/s/r1kDshkaX): The Untyped Lambda Calculus     
+[Lecture 12.1](https://hackmd.io/s/Byn8oFPTQ): Lambda Calculus: Recursion and the fixed point combinator     
+[Lecture 12.2](https://hackmd.io/s/Byn8oFPTQ): Lambda Calculus: Booleans, Numbers, Sums, Products       
+[Lecture 12.3](https://hackmd.io/s/r1kDshkaX): The Untyped Lambda Calculus     
 
-
+https://hackmd.io/s/Byn8oFPTQ
 
 [Exercises](https://hackmd.io/s/HJQNfRbtX): Exercises are a preparation for the final exam and should be solved by all students.  
 [Index on mathematics](https://github.com/alexhkurz/programming-languages/blob/master/index-of-maths.md)   
