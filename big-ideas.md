@@ -9,9 +9,29 @@
 
 (could be added now: terms as trees (parsing), formalising mathematical proofs in theorem provers, two dimensional syntax and string diagrams, ...)
 
+## Congruence Relations
+
+- Congruence relations as structure preserving equivalence relations. 
+- Meaning as a quotient by a congruence relation.
+
+## Termalgebras
+
+Termalgebras
+- turn syntax into an algebra and allow us to have both syntax and semantics as objects in the same category;
+- provide a simple mechanism to turn meta-variables into object-variables and 
+- to do pattern matching in equational logic (via the congruence and substitution rule) and, thus, to reduce the typically infinite number of rewrite rules to a finite number of equations. 
+
+## Data Types as Algebras
+
+... Abstract Data Types, Algebraic Data Types, ...
+
 ## Normalisation by Evaluation
 
 see [here](https://hackmd.io/s/rkqjXBW9X) 
+
+## Preconditions, Postconditions, Hoare Logic
+
+## Partial Correctness
 
 ## Invariants
 
@@ -35,7 +55,6 @@ We have seen an example of a recursive program that is a proof by induction in t
 
 - The task to show that a given element `e` is in a given inductively defined set `S` amounts to finding a derivation that constructs the element `e` from the rules defining `S`. 
 - From this point of view, parsing and theorem proving is essentially the same activity.
-
 
 ## Confluent and Terminating Rewrite Systems have Unique Normal Forms
 
@@ -63,3 +82,8 @@ We have seen an example of a recursive program that is a proof by induction in t
 - [MWE](https://en.wikipedia.org/wiki/Minimal_working_example): Cancelling fractions rewrites them to normal form. 
 - Arithemtic expressions have been discussed in detail in [Lecture 1.2 and following](https://github.com/alexhkurz/programming-languages/blob/master/lecture-1.2.md). 
 - Programming languages will be discussed later.
+
+## Abstract Syntax
+
+- Terms are trees and trees are terms.
+- The conversion from the concrete syntax of terms to the abstract syntax of trees is called parsing.
