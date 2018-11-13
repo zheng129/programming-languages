@@ -2,6 +2,7 @@
 
 (read bottom up ... out of date by now ... will come back to it ...)
 
+- Higher Order Functions
 
 #### ...
 
