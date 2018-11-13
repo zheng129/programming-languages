@@ -1,7 +1,7 @@
 # programming-languages
 Notes and Materials for a Course on Programming Languages
 
-Thanks to Paula Severi and Samuel Balco for providing some of the material;  to Peter Jipsen, Drew Moshier and Fer-Jan de Vries for many helpful comments and discussions; to the students for continuing challenge and feedback.
+Thanks to Paula Severi and Samuel Balco for providing some of the material;  to Peter Jipsen, Drew Moshier and Fer-Jan de Vries for many helpful comments and discussions; to the students for continuing challenge and feedback; to all my colleagues who have been teaching me over all these years.
 
 Remark: An interesting discussion on the relationship between programming languages in industry and research can be found in [Martin Berger's post](https://cstheory.stackexchange.com/questions/24884/use-of-process-calculi-and-pl-theory-for-modern-programming-language-development) at stack exchange. To quote "cutting edge theory does not address the concerns of current programming languages. It is about future languages. It will take a while for the 'real world' to catch up. The knowledge you use to build languages for today is the programming language theory of the past." As this is an introductory course to programming languages I will concentrate mostly on such well established theory of the past up to say, very roughly, 1995. I hope that at the end of the course you will agree that this theory is useful for real world programmers now.
 
