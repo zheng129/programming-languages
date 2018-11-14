@@ -95,13 +95,13 @@ What do you want to get out of the course? Where are you in the landscape?
 
 Blogging is important. I am sure you all read blogs and you know what great contribution they can make to teaching and learning. Let me give you some examples of blogs I enjoy reading (even if I never manage to read them regularly). 
 
-One of the oldest science blogs (mostly physics and maths) is by legendary John Baez from Riverside:
+One of the oldest science blogs (mostly physics and maths) is the legendary "This Weeks Finds" by John Baez from Riverside:
 			http://math.ucr.edu/home/baez/TWF.html
 			
-My friend and colleague Pawel Sobocinski is breaking new ground with his blog on linear algebra as a programming language: 
+My colleague Pawel Sobocinski is breaking new ground with his blog on linear algebra as a programming language: 
 			https://graphicallinearalgebra.net
 			
-In Andrej Bauer's blog [Mathematics and Computation](http://math.andrej.com/) you can find a lot of what is hot (and HoTT) in programming language research at the moment. The blog also draws very interesting comments and discussions.
+In Andrej Bauer's blog [Mathematics and Computation](http://math.andrej.com/) you can find a lot of what is hot (and HoTT) in programming language research at the moment. The blog also draws interesting comments and discussions.
 		
 Of course there many more ... let me know your favourites ... a recent example (thanks to Justin Dressel) that is very relevant for programming language design is 
 			https://queue.acm.org/detail.cfm?id=3212479
