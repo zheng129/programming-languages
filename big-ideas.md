@@ -39,11 +39,19 @@ The lambda calculus is intimately related to large numer of big ideas.
 
 - Dependent Types
 
-- ...
+- Recursively defined functions are fixed points
+  - Maybe you remember from a calculus or physics class how important it can be to define a function not explcitely by a formula but implicitely as the solution of an equation. 
+  - Similarly, recursive functions are solutions of equations.
+  - This insight allowed computer scientists to develop powerful methods that are very different from the methods in calculus and physics but motivated by the same big ideas. To understand how this works in detail one needs to study Recursion Theory and/or  Domain Theory which are two areas that develop this idea.
 
 #### Universal Properties
 
-...
+- ...
+- We use the universal property 
+  - of term-algebras to program with algebraic data types
+  - of the natural numbers to find the Church encodings
+  - of other type constructors to find computation rules for typed lambda calculi
+- ...
 
 #### Initiality as a Universal Characterisation of Induction
 
