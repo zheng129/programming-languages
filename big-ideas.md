@@ -19,7 +19,7 @@
 
 #### Lambda Calculus
 
-The lambda calculus is intimately related to large numer of big ideas.
+The lambda calculus is intimately related to a large number of big ideas.
 
 - Bound Variables, Scope, Capture Avoiding Substitution
 
