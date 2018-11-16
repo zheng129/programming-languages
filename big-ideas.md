@@ -31,6 +31,8 @@ The lambda calculus is intimately related to large numer of big ideas.
 
 - Higher Order Abstract Syntax
 
+- Algebraic Data Types
+
 - Church-Turing Thesis
 
 - Polymorphism
