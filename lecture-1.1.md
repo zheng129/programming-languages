@@ -121,6 +121,7 @@ You can choose a langueage because
   - C, Smalltalk, Prolog, ML, Scheme, SQL, C++, Ada, Matlab, Eiffel, Erlang, Perl, Mathematica (-1987)... with more recent additions such as 
   - Haskell, Python, R, Java, JavaScript, PHP, C#, Scala, F#, (-2007) ... and even more recent ones such as 
   - Clojure, Go, Rust, Elixir, Julia, Swift, PWCT, ... 
+  
 btw the history of porgramming languages is full of fun anecdotes, for example, why do we use `i,j,k` as variables for for loops? Because in Fortran undeclared variables called `i,j,k` are automatically known to be integers, so it was convenient to use those and this habit stayed on when other programming languages came on)
 - of the application area 
   - probabilistic programming for machine learning 
