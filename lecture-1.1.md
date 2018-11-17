@@ -116,7 +116,7 @@ You can choose a langueage because
 - you have a specific career plan and you know that a certain PL would be good
 - you heard others talking about this PL and it sounded so cool
 - the PL would be useful for what you want to do in your programming project (you always wanted to develop X, but you didnt know the best way of doing it, so now you choose a PL that might be interesting for the purpose; you might not get X going, but you will learn a lot about PLs, and X, on the way)
-- you are interested in the [history of PLs](https://en.wikipedia.org/wiki/History_of_programming_languages) (Fortran, Lisp, Algol, Simula, Pascal, C, Smalltalk, Prolog, ML, Scheme, SQL, C++, Ada, Matlab, Eiffel, Erlang, Perl, Mathematica, ... btw the history of porgramming languages is full of fun anecdotes, for example, why do we use `i,j,k` as variables for for loops? Because in Fortran undeclared variables called `i,j,k` are automatically known to be integers, so it was convenient to use those and this habit stayed on when other programming languages came on)
+- you are interested in the [history of PLs](https://en.wikipedia.org/wiki/History_of_programming_languages) (Fortran, Lisp, Algol, Simula, Pascal, C, Smalltalk, Prolog, ML, Scheme, SQL, C++, Ada, Matlab, Eiffel, Erlang, Perl, Mathematica, Haskell, Python, R, Java, JavaScript, PHP, C#, Scala, F#, Clojure, Go, Rust, Elixir, Julia, Swift, PWCT, ... btw the history of porgramming languages is full of fun anecdotes, for example, why do we use `i,j,k` as variables for for loops? Because in Fortran undeclared variables called `i,j,k` are automatically known to be integers, so it was convenient to use those and this habit stayed on when other programming languages came on)
 - of the application area 
   - probabilistic programming for machine learning 
 				https://en.wikipedia.org/wiki/Probabilistic_programming_language
@@ -126,7 +126,7 @@ You can choose a langueage because
 				https://en.wikipedia.org/wiki/Solidity
 			...
   - you want to learn a PL that is fringe but rising in popularity
-     - Haskell, Idriss, ...
+     - Haskell, Idris, ...
      - Ehtereum, blockchain, smart contracts, ...
 -  the PL is really so different from all the others (and hence interesting)
 			Prolog, Idris, Lisp, Erlang, ...
