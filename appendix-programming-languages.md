@@ -2,7 +2,7 @@
 
 #### Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
 
-
+- Common Lisp (Gregory Albarian, Sabrina Toubbeh)
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
 - [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Canaan, Ryan Lindner)
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
@@ -17,7 +17,6 @@
 - [Elixir](https://github.com/ColeGotelli/Elixir) (Cole Gotelli, Nick Lai, Charlie Liu)
 - [Ruby on Rails]( https://tommymadden.com/blog/programming_languages/index.php) (Brendan Forde, Tommy Madden)
 - [Go](https://github.com/nfergie/PlBlog) (Nicole Fergie)
-- Common Lisp (Gregory Albarian, Sabrina Toubbeh)
 - [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
 
 
