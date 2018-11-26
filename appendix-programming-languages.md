@@ -7,7 +7,7 @@
 - [Haskell](https://github.com/brisenodaniel/Prgrm_Lang_Project) (Daniel Briseno, Colton Gering)
 - [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Canaan, Ryan Lindner)
 - [Go](https://github.com/nfergie/PlBlog) (Nicole Fergie)
-
+---
 - [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, Alfonso Castanos, Matthew Schwab)
 - [Rust and WebAssembly](https://github.com/tbalestra/RUST-and-Web-Assembly) (Theo Balestra, Rielle Dizon)
 - [Go](https://github.com/GraysonBerman/GoLangRepo) (Grayson Berman, Parker Janke)
