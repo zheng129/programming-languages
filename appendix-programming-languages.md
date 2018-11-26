@@ -2,6 +2,7 @@
 
 #### Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
 
+---
 - Common Lisp (Gregory Albarian, Sabrina Toubbeh)
 - [Fortran](https://arora110.wixsite.com/cpsc354) (Akash Arora)
 - [Haskell](https://github.com/brisenodaniel/Prgrm_Lang_Project) (Daniel Briseno, Colton Gering)
@@ -19,7 +20,7 @@
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
 - Javascript/JQuery (Monique Namsinh)
 - [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
-
+---
 
 ##### For the record: Programming languages that came up in the discussions
 
