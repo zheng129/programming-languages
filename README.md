@@ -39,7 +39,9 @@ Lecture 11.2:  [Excursion on an economics example](https://hackmd.io/s/rkUxnAgTQ
 [Lecture 12.1](https://hackmd.io/s/Byn8oFPTQ): Lambda Calculus: Recursion and the fixed point combinator     
 [Lecture 12.2](https://hackmd.io/s/Byn8oFPTQ): Lambda Calculus: Booleans, Numbers, Sums, Products       
 [Lecture 12.3](https://hackmd.io/s/r1kDshkaX): The Untyped Lambda Calculus     
+[Lecture 13.1](https://hackmd.io/s/rk2jjvvRQ): The Simply Typed Lambda Calculus     
 
+https://hackmd.io/s/rk2jjvvRQ
 
 [Exercises](https://hackmd.io/s/HJQNfRbtX): Exercises are a preparation for the final exam and should be solved by all students.  
 [Index on mathematics](https://github.com/alexhkurz/programming-languages/blob/master/index-of-maths.md)   
