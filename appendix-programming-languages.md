@@ -3,10 +3,10 @@
 #### Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
 
 ---
-- Common Lisp (Gregory Albarian, Sabrina Toubbeh)
-- [Fortran](https://arora110.wixsite.com/cpsc354) (Akash Arora)
-- [Haskell](https://github.com/brisenodaniel/Prgrm_Lang_Project) (Daniel Briseno, Colton Gering)
-- [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Canaan, Ryan Lindner)
+- Common Lisp (Gregory Albarian, Sabrina Toubbeh) 
+- [Fortran](https://arora110.wixsite.com/cpsc354) (Akash Arora) 
+- [Haskell](https://github.com/brisenodaniel/Prgrm_Lang_Project) (Daniel Briseno, Colton Gering) 
+- [Julia](https://github.com/lindn100/CPSC354-Blog) (Antoine Canaan, Ryan Lindner) 
 - [Go](https://github.com/nfergie/PlBlog) (Nicole Fergie)
 ---
 - [Swift](https://github.com/schwa184/Swift-Blog) (Majid Aziz, Alfonso Castanos, Matthew Schwab)
