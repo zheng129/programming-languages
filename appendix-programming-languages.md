@@ -17,7 +17,7 @@
 - [Elixir](https://github.com/ColeGotelli/Elixir) (Cole Gotelli, Nick Lai, Charlie Liu)
 - [IBM Q](https://onp4.com/@kagan105/~cpsc354-final-project---trevor-kling-and-sam-kagan) (Sam Kagan, Trevor Kling) 
 - [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
-- [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
+- [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Andrew Dieken, Alberto Garibay, Matt McCortney)
 - Javascript/JQuery (Monique Namsinh)
 - [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
 ---
