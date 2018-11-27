@@ -18,7 +18,7 @@
 - [IBM Q](https://onp4.com/@kagan105/~cpsc354-final-project---trevor-kling-and-sam-kagan) (Sam Kagan, Trevor Kling) 
 - [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Matt McCortney)
-- Javascript/JQuery (Monique Namsinh)
+- [Javascript](https://github.com/Namsinh/CPSC354-blog.git-) (Monique Namsinh)
 - [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
 ---
 
