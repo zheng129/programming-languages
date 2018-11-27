@@ -13,12 +13,12 @@
 - [Rust and WebAssembly](https://github.com/tbalestra/RUST-and-Web-Assembly) (Theo Balestra, Rielle Dizon)
 - [Go](https://github.com/GraysonBerman/GoLangRepo) (Grayson Berman, Parker Janke)
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
+- [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Andrew Dieken, Alberto Garibay, Matt McCortney)
 - [Ruby on Rails]( https://tommymadden.com/blog/programming_languages/index.php) (Brendan Forde, Tommy Madden)
 - [Elixir](https://github.com/ColeGotelli/Elixir) (Cole Gotelli, Nick Lai, Charlie Liu)
 - [IBM Q](https://onp4.com/@kagan105/~cpsc354-final-project---trevor-kling-and-sam-kagan) (Sam Kagan, Trevor Kling) 
 - [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
-- [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Andrew Dieken, Alberto Garibay, Matt McCortney)
-- Javascript/JQuery (Monique Namsinh)
+- [Javascript](https://github.com/Namsinh/CPSC354-blog.git-) (Monique Namsinh)
 - [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
 ---
 
