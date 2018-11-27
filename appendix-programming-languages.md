@@ -18,7 +18,7 @@
 - [Elixir](https://github.com/ColeGotelli/Elixir) (Cole Gotelli, Nick Lai, Charlie Liu)
 - [IBM Q](https://onp4.com/@kagan105/~cpsc354-final-project---trevor-kling-and-sam-kagan) (Sam Kagan, Trevor Kling) 
 - [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
-- [Javascript](https://github.com/Namsinh/CPSC354-blog.git-) (Monique Namsinh)
+- [Javascript](https://github.com/Namsinh/CPSC354-blog.git) (Monique Namsinh)
 - [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
 ---
 
