@@ -15,7 +15,7 @@
 - [Solidity](https://github.com/cberardi4/Programming-Languages) (Christina Berardi, Ben Wasserman)
 - [Haskell](https://github.com/Hazmatt101/CPSC354-programming-languages) (Andrew Dieken, Alberto Garibay, Matt McCortney)
 - [Ruby on Rails]( https://tommymadden.com/blog/programming_languages/index.php) (Brendan Forde, Tommy Madden)
-- [Elixir](https://github.com/ColeGotelli/Elixir) (Cole Gotelli, Nick Lai, Charlie Liu)
+- [Elixir](https://github.com/nickalai/Elixir) (Cole Gotelli, Nick Lai, Charlie Liu)
 - [IBM Q](https://onp4.com/@kagan105/~cpsc354-final-project---trevor-kling-and-sam-kagan) (Sam Kagan, Trevor Kling) 
 - [TypeScript](https://github.com/ereeq/proglangblog) (Eric Lim)
 - [Javascript](https://github.com/Namsinh/CPSC354-blog.git) (Monique Namsinh)
