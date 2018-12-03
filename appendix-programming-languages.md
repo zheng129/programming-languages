@@ -22,6 +22,44 @@
 - [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
 ---
 
+#### Presentations:
+
+Class 1
+----------
+Monday: 
+  Go : Nicole Fergie, 
+  Julia : Antoine Canaan, Ryan Lindner
+
+Wed: 
+  Haskell :: Alberto Garibay, 
+  Haskell :: Daniel Briseno, Colton Gering
+
+Fri: 
+  Common Lisp : Gregory Albarian, Sabrina Toubbeh, 
+  Fortran : Akash Arora
+
+Class 2
+----------
+Monday: 
+  Solidity : Christina Berardi, Ben Wasserman
+  IBM Q : Sam Kagan, Trevor Kling
+  Rust and WebAssembly  : Theo Balestra, Rielle Dizon
+  TypeScript  : Eric Lim
+
+Wed: 
+  Swift : Majid Aziz, Alfonso Castanos, Matthew Schwab
+  Haskell :: Andrew Dieken, Matt McCortney
+  Ruby on Rails : Brendan Forde, Tommy Madden
+
+Fri: 
+  Javascript : Monique Namsinh
+  Elixir : Cole Gotelli, Nick Lai, Charlie Liu
+  Go : Grayson Berman, Parker Janke
+  Haskell :: Yixing Zheng
+
+
+
+
 ##### For the record: Programming languages that came up in the discussions
 
 - Fortran/Algol (sth old), 
