@@ -1,6 +1,6 @@
 
 
-## Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
+## Projects
 
 ---
 - Common Lisp (Gregory Albarian, Sabrina Toubbeh) 
