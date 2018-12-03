@@ -60,7 +60,7 @@ Fri:
 
 
 
-##### For the record: Programming languages that came up in the discussions
+## For the record: Programming languages that came up in the discussions
 
 - Fortran/Algol (sth old), 
 - Go, 
