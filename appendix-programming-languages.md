@@ -1,6 +1,6 @@
 
 
-#### Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
+## Programming languages that have been chosen (let me know if I missed some or change the file yourself and send me a pull request)
 
 ---
 - Common Lisp (Gregory Albarian, Sabrina Toubbeh) 
@@ -22,10 +22,10 @@
 - [Haskell](https://yixingz.com/blog/) (Yixing Zheng)
 ---
 
-#### Presentations:
+## Presentations:
 
-Class 1
-----------
+### Class 1
+
 Monday: 
 - Go : Nicole Fergie, 
 - Julia : Antoine Canaan, Ryan Lindner
@@ -38,8 +38,8 @@ Fri:
 - Common Lisp : Gregory Albarian, Sabrina Toubbeh, 
 - Fortran : Akash Arora
 
-Class 2
-----------
+### Class 2
+
 Monday: 
 - Solidity : Christina Berardi, Ben Wasserman
 - IBM Q : Sam Kagan, Trevor Kling
